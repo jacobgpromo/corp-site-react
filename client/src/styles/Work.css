@@ -1,0 +1,200 @@
+.hero-work {
+    background-image: url('../images/work/work_heroimg.jpg');
+    width: 100%;
+    height: 635px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.work-cta-top{
+    font-size: 70px;
+    color: white;
+    font-family: proxima-bold
+}
+
+.work-cta-bottom{
+    font-size: 25px;
+    color: white;
+}
+
+.work-hero-box{
+    padding-top: 12%;
+    padding-right: 25%;
+}
+
+.work-blue{
+    font-size: 60px;
+    color: #3babc5;
+    font-family: Proxima-bold
+}
+
+.work-paragraph{
+    color: #919191;
+    font-size: 20px;
+}
+
+.programs-orange{
+    font-size: 60px;
+    color: #ef7521;
+    font-family: Proxima-bold
+}
+
+.programs-paragraph{
+    color: #919191;
+    font-size: 20px;
+    width: 90%;
+}
+
+.rows {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 4px;
+}
+
+/* Create four equal columns that sits next to each other */
+.columns {
+    flex: 33%;
+    max-width: 33%;
+    padding: 0 7px;
+}
+
+.columns img {
+    margin-top: 14px;
+    vertical-align: middle;
+}
+
+.work-music{
+    margin-left: 8%;
+}
+
+.how-we-do{
+    margin-top: 50px;
+}
+
+.how-we-service{
+    margin-top: 100px;
+}
+
+.how-we-warehouse{
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+.work-program-links{
+    color: #ef7521;
+    font-size: 18px;
+    margin: 5px 0;
+}
+
+.house-one, .house-two{
+    width: 45%
+}
+
+.house-one{
+    margin: 20px 20px 20px 0;
+}
+
+.house-two{
+    margin: 40px 0 20px 0;
+    padding-top: 40px;
+}
+
+.house-three{
+    width: 75%;
+    margin-right: 70px;
+}
+
+.work-bottomer{
+    text-align: right;
+}
+
+.scroll-down-work {
+    text-align: right;
+    margin-top: -10%;
+    margin-right: 11%;
+    cursor: pointer;
+}
+
+@media(max-width:991px){
+    .hero-work{
+        margin-top: 0;
+    }
+    .work-images-odd{
+        text-align: center;
+    }
+    .scroll-down-work{
+        display: none;
+    }
+}
+
+/* Responsive layout - makes a two column-layout instead of four columns */
+/* @media screen and (max-width: 767px) {
+    .columns {
+        -ms-flex: 50%;
+        flex: 50%;
+        max-width: 50%;
+    }
+} */
+
+@media (max-width: 767px){
+
+    .programs-orange{
+        font-size: 45px;
+    }
+    .work-music {
+        margin-left: 0;
+        height: 275px;
+    }
+    .work-cta-top{
+        font-size: 42px;
+    }
+    .work-hero-box{
+        padding-right: 5%;
+        padding-top: 30%;
+    }
+    .work-cta-bottom{
+        font-size: 20px
+    }
+    .hero-work{
+        height: 500px
+    }
+    .work-blue{
+        font-size: 45px;
+    }
+    .columns{
+        padding: 0 4px;
+    }
+    .columns img {
+        margin-top: 8px;
+    }
+    .how-we-do{
+        margin-top: 10px;
+    }
+    .how-we-service{
+        margin-top: 10px;
+    }
+    .how-we-warehouse{
+        margin: 10px 0
+    }
+    .work-images-odd{
+        padding: 0;
+    }
+    .house-two{
+        margin: 40px 0 10px 0;
+    }
+    .house-one{
+        margin: 20px 10px 20px 0;
+    }
+}
+
+
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+/* @media screen and (max-width: 600px) {
+    .columns {
+        -ms-flex: 100%;
+        flex: 100%;
+        max-width: 100%;
+    }
+} */

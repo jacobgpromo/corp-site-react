@@ -1,0 +1,115 @@
+.hero-leads {
+    background-image: url(/static/media/career_hero_v2.d244012c.png);
+    width: 100%;
+    height: 100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.leads-h1{
+    color: #ef7521;
+    font-weight: 900;
+}
+
+.leads-h2{
+    color: #ef7521;
+    font-weight: 900;
+    font-size: 30px;
+}
+
+.leads-h4{
+    color: #888;
+    font-size: 24px;
+}
+
+.leads-form {
+    margin-top: 50px;
+    margin-bottom: 25px;
+}
+
+div#hubform {
+    background-color: #8C909126;
+    padding-top: 15px;
+    text-align: center;
+    padding-left: 70px;
+    padding-right: 70px;
+}
+
+.hs-form-ec8ff01a-ce33-4228-8091-40079b59f772_90659730-6201-408f-ab7a-d7f639f07c3e .hs-submit > .actions {
+    text-align: center;
+}
+
+.hs-form-ec8ff01a-ce33-4228-8091-40079b59f772_c4e54aad-e7b1-4556-9c1d-b7110f4bfcbd .hs-submit > .actions {
+    text-align: center;
+}
+
+.actions {
+    margin-top: 18px;
+    margin-bottom: 18px;
+    padding: 17px 0px;
+    text-align: center !important;
+}
+
+.leads-forms-text p {
+    font-size: 16px;
+}
+
+.leads-forms-text {
+    padding-bottom: 15px;
+}
+
+.leads-forms-text p a {
+    color: #EE7623;
+}
+
+.leads-img{
+    height: 250px;
+}
+
+.coke-image, .bank-image{
+    height: 225px;
+}
+
+.leads-images {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: baseline;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+input.hs-button.primary.large {
+    font-size: 18px;
+    text-transform: uppercase;
+    font-family: Proxima-bold;
+}
+
+input.hs-button.primary.large:hover {
+    font-size: 18px;
+    text-transform: uppercase;
+    font-family: Proxima-bold;
+}
+
+.hs-form-ec8ff01a-ce33-4228-8091-40079b59f772_5f3a34e1-155a-4d5b-a2aa-ae59ded34693 .hs-button{
+    font-size: 18px;
+    text-transform: uppercase;
+    font-family: Proxima-bold;
+}
+
+@media (max-width: 767px) {
+
+    .leads-img{
+        margin-bottom: 25px;
+    }
+
+    .leads-images {
+        display: flex;
+        justify-content: flex-start;
+    }
+
+    .coke-image, .bank-image{
+        margin-left: auto;
+    }
+
+}

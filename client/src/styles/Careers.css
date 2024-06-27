@@ -1,0 +1,162 @@
+.hero-careers {
+    background-image: url('../images/careers/career_hero_v2.png');
+    width: 100%;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.career-hero-box{
+    padding-top: 175px;
+}
+
+.apply-link{
+    color: #696969;
+    text-decoration: underline;
+}
+
+.apply-link:hover{
+    color: #3babc5;
+}
+
+.view-button{
+    color: #ef7521;
+}
+
+.view-button:hover{
+    color: #Ce5400;
+    cursor: pointer;
+}
+
+.apply-button {
+    color: white;
+    font-size: 18px;
+    padding: 11px 30px;
+    background-color: #ef7521;
+    border-radius: 7px;
+    font-family: 'Proxima-bold';
+    border: none;
+    margin: 20px;
+}
+
+.apply-button:hover{
+    background-color: #Ce5400;
+    color: white;
+    text-decoration: none;
+}
+
+.apply-close-button{
+    margin-left: 88%;
+    margin-top: 20px;
+    background-color: #ef7521;
+    color: white;
+    border: 1px solid #ef7521;
+}
+
+.apply-close-button:hover{
+    color: #ef7521;
+    background-color: white;
+}
+
+.apply-inputs{
+    width: 100%;
+    background-color: #eeeeee;
+    border: none;
+    padding: 15px 0 15px 10px;
+    margin: 5px;
+}
+
+.orange-bar-apply{
+    height: 1.5px;
+    width: 50px;
+    background-color: #ef7521;
+    margin-bottom: 20px;
+}
+
+.apply-file{
+    display: inline;
+    margin-left: 20px;
+}
+
+.apply-lightbox{
+    position: absolute;
+    top: 40px;
+    left: 25%;
+    right: 25%;
+    /* bottom: 40px; */
+    border: 1px solid rgb(204, 204, 204);
+    background: rgb(255, 255, 255);
+    overflow: auto;
+    border-radius: 4px;
+    outline: none;
+    padding: 20px;
+}
+
+.apply-button-send {
+    color: white;
+    font-size: 18px;
+    padding: 11px 30px;
+    background-color: #ef7521;
+    border-radius: 7px;
+    font-family: 'Proxima-bold';
+    border: none;
+    margin-left: 50%;
+    transform: translateX(-50%);
+    margin-top: 10px;
+}
+
+.apply-button-send:hover{
+    background-color: #Ce5400;
+    color: white;
+    text-decoration: none;
+}
+
+.careers-cta-bottom {
+    font-size: 16px;
+    color: white;
+}
+
+.careers-button {
+    color: white;
+    font-size: 18px;
+    padding: 11px 25px;
+    background-color: #3babc5;
+    border-radius: 7px;
+    font-family: 'Proxima-bold';
+}
+
+.careers-button:hover{
+    color: #fff;
+    text-decoration: none;
+}
+
+@media(max-width:991px){
+    .hero-careers{
+        margin-top: 0;
+        height: 400px;
+    }
+    .work-blue{
+        font-size: 32px
+    }
+    .apply-lightbox{
+        top: 60px;
+        left: 5%;
+        right: 5%;
+    }
+    .apply-close-button{
+        margin-left: 60%;
+    }
+}
+
+@media(max-width:767px){
+    .apply-button-send{
+        width: 100%;
+    }
+    .career-hero-box{
+        padding-top: 45px
+    }
+    .careers-cta-bottom {
+        font-size: 13px;
+        color: white;
+    }
+}

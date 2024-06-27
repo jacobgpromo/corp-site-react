@@ -1,0 +1,535 @@
+.hero-about {
+    background-image: url('../images/about/aboutus_heroimg.jpg');
+    width: 100%;
+    height: 636px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.basic{
+    color: #696969;
+    font-size: 18px;
+}
+
+.history-box{
+    margin-top: -109px;
+}
+
+.about-cta-top{
+    font-size: 70px;
+    color: white;
+    font-family: proxima-bold
+}
+
+.about-cta-bottom{
+    font-size: 25px;
+    color: white;
+}
+
+.about-hero-box{
+    padding-top: 15%;
+    padding-right: 25%;
+}
+
+.abstract-div{
+    overflow-x: hidden;
+}
+
+.big-words-about{
+    font-size: 140px;
+    font-family: Proxima-bold;
+    color: #eeeeee;
+    white-space: nowrap;
+    overflow-x: hidden;
+}
+
+.about-bike{
+    width: 100%
+}
+
+.about-warehouse{
+    width: 100%;
+    margin-top: 50px;
+}
+
+.about-core-values{
+    width: 100%
+}
+
+.about-ladies{
+    width: 100%
+}
+
+.green-history, .green-network{
+    font-size: 60px;
+    color: #b4cb22;
+    font-family: Proxima-bold
+}
+
+.history-paragraph, .network-paragraph{
+    color: #919191;
+    font-size: 20px;
+}
+
+.what-we-do{
+    display: flex;
+}
+
+.we-do-right{
+    margin-left: 25%;
+}
+
+
+
+ul.we-do-ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.we-do-green{
+    color: #919191;
+    font-size: 18px;
+    line-height: 2;
+}
+
+.about-video{
+    margin-top: -15px;
+    text-align: center;
+}
+
+.about-video:hover{
+    cursor: pointer;
+}
+
+.how-we-work{
+    background-image: url('../images/about/howwework.jpg');
+    background-size: cover;
+    height: 408px;
+    position: relative;
+}
+
+.how-box{
+    width: 50%;
+    position: absolute;
+    bottom: 0;
+    right: 10%;
+    padding: 20px;
+    background-color: rgba(255,255,255,0.85)
+}
+
+.about-orange-words{
+    color: #ef7521;
+    font-size: 60px;
+    font-family: Proxima-bold;
+}
+
+.thin-orange-words{
+    color: #ef7521;
+    font-size: 45px;
+    font-family: Proxima;
+}
+
+.where-we-work{
+    background-image: url('../images/about/wherewework.jpg');
+    background-size: cover;
+    height: 485px;
+    position: relative;
+}
+
+.where-box{
+    width: 50%;
+    position: absolute;
+    bottom: 0;
+    left: 10%;
+    padding: 20px;
+    background-color: rgba(255,255,255,0.85)
+}
+
+.company-stores{
+    margin-top: 150px;
+}
+
+.data-div{
+    margin-top: 50px;
+}
+
+.source-one{
+    width: 90%;
+}
+
+.source-two{
+    margin-left: 50%;
+    margin-top: 20px;
+    width: 50%;
+}
+
+.responsible{
+    padding-top: 0px;
+    padding-left: 75px;
+}
+
+h4.data-titles {
+    color: #696969;
+    font-family: Proxima-bold;
+    font-size: 24px;
+}
+
+.col-md-6.data-graphic {
+    text-align: center;
+    margin-top: 50px;
+    position: relative;
+}
+
+.count1 {
+    position: absolute;
+    top: 94px;
+    right: 59px;
+    font-size: 22px;
+    color: #ef7521;
+}
+
+.count2 {
+    position: absolute;
+    top: 211px;
+    right: 67px;
+    font-size: 22px;
+    color: #b4cb22
+}
+
+.count3 {
+    position: absolute;
+    top: 323px;
+    right: 71px;
+    font-size: 22px;
+    color: #3babc5;
+}
+
+img.orders-by-state {
+    width: 100%;
+}
+
+img.active-users {
+    width: 100%;
+}
+
+.decision-div{
+    margin-top: 50px;
+}
+
+.awards-div{
+    background-image: url('../images/about/awards_bg.jpg');
+    margin-top: 70px;
+}
+
+.awards-title{
+    text-align: center;
+    color: white;
+    width: 560px;
+    margin: auto;
+    padding: 50px 0
+}
+
+.awards-top-title{
+    font-family: Proxima-bold;
+    font-size: 60px;
+}
+
+.awards-bottom-title{
+    font-size: 24px;
+}
+
+.ribbon-paragraph{
+    color: white;
+    font-size: 18px;
+}
+
+.ribbon-box{
+    text-align: center;
+    width: 210px;
+    margin: auto;
+    height: 140px
+}
+
+.service-image{
+    width: 100%;
+}
+
+.service-div{
+    margin-top: 55px;
+}
+
+.about-images-one{
+    display: flex;
+    align-items: baseline;
+    margin-bottom: 10px;
+}
+
+.about-images-two {
+    display: flex;
+    align-items: flex-start;
+}
+
+.rockstars{
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.rock-one, .rock-two{
+    width: 42%
+}
+
+.rock-three, .rock-four{
+    width: 48%;
+}
+
+.rock-two{
+    padding-right: 10px;
+}
+
+.rock-three{
+    padding: 0 10px;
+}
+
+.women-owned{
+    margin-top: 9%
+}
+
+.orange-network{
+    color: #ef7521;
+    font-size: 20px;
+}
+
+.about-blue-words{
+    font-size: 60px;
+    color: #3babc5;
+    font-family: Proxima-bold
+}
+
+.mobile-abstract, .mobile-globe{
+    display: none;
+}
+
+.giveback-button {
+    color: white;
+    font-size: 18px;
+    padding: 17px 25px;
+    background-color: #ef7521;
+    border-radius: 7px;
+    font-family: 'Proxima-bold';
+}
+
+.giveback-button:hover {
+    background-color: #Ce5400;
+    color: white;
+    text-decoration: none;
+}
+
+
+@media(min-width: 1250px){
+    .col-md-5.strange-images{
+        height: 700px;
+    }
+}
+
+@media(max-width:1199px){
+    .we-do-right {
+        margin-left: 10%;
+    }
+    .count1{
+        top: 86px;
+        right: 47px
+    }
+    .count2{
+        top: 179px;
+        right: 52px
+    }
+    .count3{
+        top: 271px;
+        right: 59px
+    }
+}
+
+@media(max-width:991px){
+    .hero-about{
+        margin-top: 0;
+        background-image: url('../images/about/aboutus_heroimg_mobile.jpg');
+    }
+    .big-words-about{
+        display: none;
+    }
+    .strange-images{
+        text-align: center;
+    }
+    .how-box{
+        right: 0;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 78%;
+    }
+    .where-box{
+        left: 0;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 87%;
+    }
+    .company-stores {
+        margin-top: 25px;
+    }
+    .source-two{
+        margin-left: 27%;
+        width: 69%
+    }
+    .responsible {
+        padding-top: 20px;
+        padding-left: 15px;
+    }
+    .col-md-6.data-graphic {
+        margin-top: 40px;
+    }
+    .decision-div{
+        margin-top: 10px;
+        padding: 0 15px;
+        margin: 0 15px;
+    }
+    .service-div{
+        margin-top: 0;
+    }
+    .history-box{
+        margin-top: 20px !important;
+    }
+    .count1{
+        top: 100px !important;
+        right: 80px !important;
+    }
+    .count2{
+        top: 251px !important;
+        right: 87px !important;
+    }
+    .count3{
+        top: 395px !important;
+        right: 93px !important;
+    }
+}
+
+@media(max-width:767px){
+    .about-hero-box{
+        padding-right: 10px;
+        padding-top: 33%;
+    }
+    .history-box {
+        margin-top: 0;
+    }
+    .how-box{
+        left: 37%;
+    }
+    .about-cta-top{
+        font-size: 34px;
+    }
+    .about-cta-bottom{
+        font-size: 20px
+    }
+    .hero-about{
+        height: 375px;
+    }
+    img.about-careful-img {
+        height: 100px !important;
+    }
+    .gif-background{
+        height: 750px !important;
+    }
+    .unbound-img{
+        height: 55px !important;
+    }
+    .abstract-div{
+        text-align: center;
+        margin-top: 20px
+    }
+    img.give-back-img {
+        width: 100%;
+        height: auto !important;
+    }
+    .big-words-about {
+        font-size: 32px;
+        margin: 0;
+    }
+    .about-bike, .about-warehouse{
+        width: 48%
+    }
+    .about-warehouse{
+        margin-left: 4%;
+        margin-bottom: 4%;
+    }
+    .about-core-values{
+        width: 60%
+    }
+    .about-ladies{
+        width: 36%;
+        margin-left: 4%;
+        margin-bottom: 24%
+    }
+    .green-history, .green-network, .about-blue-words{
+        font-size: 32px;
+    }
+    .how-we-work{
+        height: 555px;
+    }
+    .col-md-4.careful-img-div {
+        text-align: center;
+        padding-bottom: 30px;
+    }
+    .about-orange-words{
+        font-size: 32px;
+    }
+    .thin-orange-words{
+        font-size: 24px;
+    }
+    .mobile-abstract{
+        display: block;
+    }
+    .desktop-abstract{
+        display: none !important;
+    }
+    .what-we-do{
+        display: block
+    }
+    .we-do-right{
+        margin-left: 0;
+    }
+    .about-video{
+        margin-top: 35px;
+    }
+    .awards-div{
+        margin-top: 50px !important;
+    }
+    .awards-title{
+        width: 100%;
+    }
+    .awards-top-title{
+        font-size: 36px;
+    }
+    .awards-bottom-title {
+        font-size: 20px;
+    }
+    .rockstars{
+        margin-bottom: 25px;
+    }
+    .count1{
+        top: 27% !important;
+        right: 12% !important;
+        font-size: 12px;
+    }
+    .count2{
+        top: 54% !important;
+        right: 13% !important;
+        font-size: 12px;
+    }
+    .count3{
+        top: 80% !important;
+        right: 13.5% !important;
+        font-size: 12px;
+    }
+    iframe {
+        width: 100%;
+    }
+
+}

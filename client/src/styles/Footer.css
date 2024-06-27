@@ -1,0 +1,164 @@
+.footer-container{
+    color: #7a7a7a;
+    margin-top: 50px;
+    margin-bottom: 10px
+}
+
+.overture {
+    color: #ef7521;
+    font-size: 22px;
+    font-family: Proxima-bold;
+}
+
+.info {
+    font-size: 16px;
+    margin: 0;
+    line-height: 1.2;
+    color: #7a7a7a;
+}
+
+.infoBreak {
+    font-size: 16px;
+    line-height: .8;
+    padding-bottom: 20px
+}
+
+.footer-nav-links {
+    display: flex;
+    margin-top: 50px;
+}
+
+.footer-link {
+    color: #7a7a7a;
+    font-size: 16px;
+    padding-right: 17px;
+    text-decoration: none;
+}
+
+.footer-link:hover {
+    color: #ef7521 ;
+    text-decoration: none;
+}
+
+.map-paragraph{
+    font-size: 16px;
+    text-align: center;
+    color: #8c9091;
+}
+
+.map-divy{
+    text-align: center;
+}
+
+.core-row{
+    background-color: #eeeeee;
+    padding: 100px 0 30px 0;
+}
+
+.footer-copy{
+    background-color: #dbdbdb;
+    text-align: center;
+    padding: 10px;
+}
+
+.career-button {
+    color: white;
+    font-size: 18px;
+    padding: 15px 25px;
+    background-color: #ef7521;
+    border-radius: 7px;
+    font-family: 'Proxima-bold';
+}
+
+.career-button:hover{
+    background-color: #Ce5400;
+    color: white;
+    text-decoration: none;
+}
+
+.career-button:focus{
+    color: white;
+    text-decoration: none;
+}
+
+.core-text{
+    color: #636363;
+    margin: -25px 0 63px 0;
+}
+
+.core-image{
+    width: 80%;
+    margin-top: 15px;
+}
+
+.copy-text{
+    color: #636363;
+    margin: 0;
+}
+
+.core-footer {
+    margin-top: 25px;
+}
+
+.image-scale{
+    transition: 500ms
+}
+
+.image-scale:hover{
+    transform: scale(1.2);
+}
+
+.news-button-div {
+    margin-top: 20px;
+}
+
+.news-button {
+    border: 1px solid #36b0c9;
+    color: #36b0c9;
+    font-size: 18px;
+    font-family: 'Proxima-Bold';
+    padding: 10px 15px;
+    border-radius: 7px;
+}
+
+.news-button:hover{
+    text-decoration: none;
+    background-color: #36b0c9;
+    color: #fff;
+}
+
+
+@media(max-width:991px){
+    .footer-nav-links{
+        display: none !important;
+    }
+    .footer-right-nav{
+        text-align: center;
+    }
+    .social{
+        margin-left: 0px;
+        margin-right: 35px;
+    }
+    .contact-col{
+        text-align: center;
+    }
+    .core-image{
+        margin-bottom: 25px;
+        width: 50%;
+    }
+    .core-center{
+        text-align: center;
+    }
+    .core-text{
+        margin: 10px;
+    }
+}
+
+@media(max-width:767px){
+    .fa.fa-facebook{
+        margin-left: 0 !important;
+    }
+    .core-row{
+        padding: 35px 0 30px 0;
+    }
+}

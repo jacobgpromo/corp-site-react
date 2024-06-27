@@ -1,0 +1,174 @@
+.hero-team {
+    background-image: url('../images/team/team_heroimg.jpg');
+    width: 100%;
+    height: 620px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.team-cta-top{
+    font-size: 70px;
+    color: white;
+    font-family: proxima-bold
+}
+
+.team-cta-bottom{
+    font-size: 25px;
+    color: white;
+}
+
+.team-box{
+    padding-top: 12%;
+    padding-right: 25%;
+}
+
+.jump-list{
+    display: flex;
+    justify-content: space-between;
+    padding: 0;
+    margin-top: 25px;
+}
+
+.jump-link{
+    list-style-type: none;
+    margin: 10px 37px;
+    width: 18%;
+    text-align: center;
+    border: 1px solid;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+
+.employee-card:hover{
+    cursor: pointer;
+}
+
+.employee-headshot{
+    width: 225px;
+    height: 225px;
+    transition: 500ms;
+}
+
+.employee-headshot:hover{
+    transform: scale(1.1);
+}
+
+.employee-name{
+    font-family: Proxima-bold;
+    color: #5d5d5e;
+    font-size: 22px;
+}
+
+.employee-title{
+    font-size: 15px;
+    color: #888888;
+    height: 35px;
+}
+
+.employee-modal{
+    position: absolute;
+    top: 10%;
+    bottom: 10%;
+    left: 50%;
+    outline: 0;
+    transform: translateX(-50%);
+    border: 1px solid rgb(204, 204, 204);
+    background: rgb(255, 255, 255);
+    padding: 20px;
+    overflow-y: auto
+}
+
+.employee-two-modal{
+    position: absolute;
+    top: 10%;
+    bottom: 10%;
+    left: 68%;
+    outline: 0;
+    transform: translateX(-111%);
+    border: 1px solid rgb(204, 204, 204);
+    background: rgb(255, 255, 255);
+    padding: 20px;
+    overflow-y: auto
+}
+
+#experts-orange, #sales-orange, #e-commerce-orange, #creative-orange, #operations-orange, #embrodiery-orange, #warehouse-orange{
+    color: #ef7521;
+    font-size: 40px;
+    margin-bottom: 20px;
+    font-family: Proxima-bold;
+}
+
+.close-img-team{
+    cursor: pointer;
+}
+
+.jump-link{
+    color: #8d8d8d
+}
+
+.jump-link:hover{
+    text-decoration: none;
+    color: #ef7521;
+    cursor: pointer;
+}
+
+.jump-link:focus{
+    color: #ef7521;
+    text-decoration: none;
+}
+
+#na-jump-link{
+    color: #5d5d5d;
+    font-family: Proxima-bold;
+}
+
+
+@media(max-width:991px){
+    .hero-team{
+        margin-top: 0;
+    }
+    .jump-list, .jump-link{
+        display: block;
+    }
+    .jump-link{
+        margin: 5px 0;
+        font-size: 14px;
+        width: 100%;
+    }
+}
+
+@media(max-width:767px){
+    .employee-headshot{
+        width: 100%;
+        height: 100%;
+    }
+    .employee-modal, .employee-two-modal{
+        left: 25%;
+        transform: translateX(-16%)
+    }
+    .team-box{
+        padding-top: 28%; 
+    }
+    .team-close-button{
+        margin-left: 55%;
+    }
+    .team-cta-top{
+        font-size: 34px;
+    }
+    .team-cta-bottom{
+        font-size: 14px;
+    }
+    .hero-team{
+        height: 400px;
+    }
+    .employee-title{
+        margin: 5px 0 30px 0;
+    }
+
+    /* This is the issue with the last name wrapping... */
+    .employee-name{
+        font-size: 14px;
+        margin-bottom: -5px;
+    }
+}
