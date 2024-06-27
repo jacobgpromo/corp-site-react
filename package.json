@@ -12,7 +12,7 @@
     "dev": "concurrently --kill-others-on-fail \"yarn server\" \"yarn client\"",
     "dev:server": "cd client && yarn build && cd .. && yarn start",
     "start": "node server.js",
-    "heroku-postbuild": "cd client && npm install && npm install --only=dev --no-shrinkwrap && npm run build"
+    "heroku-postbuild": "cd client && npm install --legacy-peer-deps && npm install --only=dev --no-shrinkwrap --legacy-peer-deps && npm run build"
   },
   "dependencies": {
     "express": "^4.16.3",
