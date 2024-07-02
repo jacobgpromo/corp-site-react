@@ -322,6 +322,11 @@ class Sales extends Component {
             name={People.AudreyM.name}
             title={People.AudreyM.title}
           />
+          <NotPictured
+            name={People.CourtneyO.name}
+            title={People.CourtneyO.title}
+          />
+          <NotPictured name={People.KaciE.name} title={People.KaciE.title} />
           <NotPictured name={People.Tamia.name} title={People.Tamia.title} />
         </div>
         {/* All The modals */}

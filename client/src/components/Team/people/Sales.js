@@ -881,4 +881,22 @@ export const People = {
     why: "",
     image: Female1,
   },
+  KaciE: {
+    name: "Kaci Ericson",
+    title: "Sales Intern",
+    bio: "",
+    movie: "",
+    vacation: "",
+    why: "",
+    image: Female1,
+  },
+  CourtneyO: {
+    name: "Courtney O'Hara",
+    title: "Sr. Account Executive",
+    bio: "",
+    movie: "",
+    vacation: "",
+    why: "",
+    image: Female1,
+  },
 };
