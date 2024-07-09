@@ -302,6 +302,10 @@ class Warehouse extends Component {
             title={People.Carnell.title}
           />
           <NotPictured
+            name={People.ChristianA.name}
+            title={People.ChristianA.title}
+          />
+          <NotPictured
             name={People.LevettiaW.name}
             title={People.LevettiaW.title}
           />
@@ -313,6 +317,7 @@ class Warehouse extends Component {
             name={People.JulianC.name}
             title={People.JulianC.title}
           />
+          <NotPictured name={People.MariaC.name} title={People.MariaC.title} />
           <NotPictured
             name={People.Natalie.name}
             title={People.Natalie.title}

@@ -698,4 +698,22 @@ export const People = {
     why: "",
     image: Male1,
   },
+  MariaC: {
+    name: "María Soledad Guzmán Contreras",
+    title: "Pick/Pack",
+    bio: "",
+    movie: "",
+    vacation: "",
+    why: "",
+    image: Female1,
+  },
+  ChristianA: {
+    name: "Christian Arroyo-Carrillo",
+    title: "Pick/Pack",
+    bio: "",
+    movie: "",
+    vacation: "",
+    why: "",
+    image: Female1,
+  },
 };
