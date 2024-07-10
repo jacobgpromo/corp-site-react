@@ -352,4 +352,13 @@ export const People = {
     why: "",
     image: AnaI,
   },
+  Baltazar: {
+    name: "Baltazar Alvarez Vallejo",
+    title: "Screen Print Operator",
+    bio: "",
+    movie: "",
+    vacation: "",
+    why: "",
+    image: Male1,
+  },
 };
