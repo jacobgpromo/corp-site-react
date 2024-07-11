@@ -716,4 +716,22 @@ export const People = {
     why: "",
     image: Female1,
   },
+  Karla: {
+    name: "Karla Almendarez",
+    title: "Inventory",
+    bio: "",
+    movie: "",
+    vacation: "",
+    why: "",
+    image: Female1,
+  },
+  Irene: {
+    name: "Irene Lopez",
+    title: "Inventory",
+    bio: "",
+    movie: "",
+    vacation: "",
+    why: "",
+    image: Female1,
+  },
 };
