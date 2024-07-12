@@ -590,15 +590,6 @@ export const People = {
     why: "",
     image: VeronicaT,
   },
-  VictorV: {
-    name: "Victor Vazquez",
-    title: "Warehouse Associate",
-    bio: "",
-    movie: "",
-    vacation: "",
-    why: "",
-    image: VictorV,
-  },
   ZaidV: {
     name: "Zaid Vazquez",
     title: "Warehouse Associate",
