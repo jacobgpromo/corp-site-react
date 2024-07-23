@@ -95,6 +95,11 @@ class Sales extends Component {
             title={People.ChrisM.title}
           />
           <Employee
+            image={People.CourtneyO.image}
+            name={People.CourtneyO.name}
+            title={People.CourtneyO.title}
+          />
+          <Employee
             image={People.Danny.image}
             name={People.Danny.name}
             title={People.Danny.title}
@@ -321,10 +326,6 @@ class Sales extends Component {
           <NotPictured
             name={People.AudreyM.name}
             title={People.AudreyM.title}
-          />
-          <NotPictured
-            name={People.CourtneyO.name}
-            title={People.CourtneyO.title}
           />
           <NotPictured name={People.KaciE.name} title={People.KaciE.title} />
           <NotPictured name={People.Tamia.name} title={People.Tamia.title} />

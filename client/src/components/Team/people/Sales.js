@@ -78,6 +78,7 @@ import MatthewC from "../../../images/team/Sales/Matthew C2.png";
 import Tracy from "../../../images/team/Sales/Tracy Q.png";
 import Wendy from "../../../images/team/Sales/Wendy C.png";
 import Annabelle from "../../../images/team/Operations/Annabelle.png";
+import CourtneyO from "../../../images/team/Sales/Courtney-O'Hara.png";
 
 //These are the default photos to be used when photo no avail.
 import Male1 from "../../../images/team/Male1.jpg";
@@ -897,6 +898,6 @@ export const People = {
     movie: "",
     vacation: "",
     why: "",
-    image: Female1,
+    image: CourtneyO,
   },
 };
