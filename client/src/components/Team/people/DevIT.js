@@ -92,7 +92,7 @@ export const People = {
   },
   Sam: {
     name: "Sam Mintz",
-    title: "Junior Web Developer",
+    title: "Web Developer",
     bio: "",
     movie: "",
     vacation: "",
