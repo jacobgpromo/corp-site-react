@@ -289,32 +289,48 @@ class Warehouse extends Component {
             name={People.ZaidV.name}
             title={People.ZaidV.title}
           />
+          <Employee
+            image={People.Carnell.image}
+            name={People.Carnell.name}
+            title={People.Carnell.title}
+          />
+          <Employee
+            image={People.ChristianA.image}
+            name={People.ChristianA.name}
+            title={People.ChristianA.title}
+          />
+          <Employee
+            image={People.Irene.image}
+            name={People.Irene.name}
+            title={People.Irene.title}
+          />
+          <Employee
+            image={People.Jacques.image}
+            name={People.Jacques.name}
+            title={People.Jacques.title}
+          />
+          <Employee
+            image={People.KarlaA.image}
+            name={People.KarlaA.name}
+            title={People.KarlaA.title}
+          />
+          <Employee
+            image={People.LevettiaW.image}
+            name={People.LevettiaW.name}
+            title={People.LevettiaW.title}
+          />
+          <Employee
+            image={People.MariaC.image}
+            name={People.MariaC.name}
+            title={People.MariaC.title}
+          />
         </div>
         <Element id="creative-orange">Not Pictured</Element>
         <div className="row" style={{ marginBottom: "50px" }}>
           <NotPictured
-            name={People.Carnell.name}
-            title={People.Carnell.title}
-          />
-          <NotPictured
-            name={People.ChristianA.name}
-            title={People.ChristianA.title}
-          />
-          <NotPictured name={People.Irene.name} title={People.Irene.title} />
-          <NotPictured name={People.Karla.name} title={People.Karla.title} />
-          <NotPictured
-            name={People.LevettiaW.name}
-            title={People.LevettiaW.title}
-          />
-          <NotPictured
-            name={People.Jacques.name}
-            title={People.Jacques.title}
-          />
-          <NotPictured
             name={People.JulianC.name}
             title={People.JulianC.title}
           />
-          <NotPictured name={People.MariaC.name} title={People.MariaC.title} />
           <NotPictured
             name={People.Natalie.name}
             title={People.Natalie.title}

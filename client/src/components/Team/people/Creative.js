@@ -14,6 +14,7 @@ import Brandon from "../../../images/team/Creative/Brandon.png";
 import Drew from "../../../images/team/Creative/Drew.jpg";
 import Jamie from "../../../images/team/Creative/Jamie.jpg";
 import MeganKuerschner from "../../../images/team/Creative/MeganKuerschner.jpg";
+import TimothyC from "../../../images/team/Creative/Timothy-Conn.png";
 
 import Female1 from "../../../images/team/Female1.jpg";
 
@@ -187,6 +188,6 @@ export const People = {
     movie: "",
     vacation: "",
     why: "",
-    image: Female1,
+    image: TimothyC,
   },
 };

@@ -51,6 +51,7 @@ import ThomasJ from "../../../images/team/Operations/Tommy J2.png";
 import Tye from "../../../images/team/Operations/Tye S2.png";
 import DianaM from "../../../images/team/NewWarehouse/Diana Mendoza.png";
 import KathleenK from "../../../images/team/Operations/KathyR.png";
+import JayliaS from "../../../images/team/Operations/Jaylia-Swift.png";
 
 //These are the default photos to be used when photo no avail.
 import Male1 from "../../../images/team/Male1.jpg";
@@ -589,6 +590,6 @@ export const People = {
     movie: "",
     vacation: "",
     why: "",
-    image: Female1,
+    image: JayliaS,
   },
 };

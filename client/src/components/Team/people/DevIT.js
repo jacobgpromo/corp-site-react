@@ -12,6 +12,7 @@ import Josella from "../../../images/team/Sales/Josella.jpg";
 import Brian from "../../../images/team/Operations/Brian Rahn.png";
 import KevinS from "../../../images/team/Operations/KevinS.jpg";
 import Kinza from "../../../images/team/Operations/Kinza H.png";
+import Dale from "../../../images/team/Operations/Dale-Burmeister.png";
 
 import Female1 from "../../../images/team/Female1.jpg";
 import Male1 from "../../../images/team/Male1.jpg";
@@ -154,11 +155,11 @@ export const People = {
   },
   Dale: {
     name: "Dale Burmeister",
-    title: "Web Developer",
+    title: "Senior Web Developer",
     bio: "",
     movie: "",
     vacation: "",
     why: "",
-    image: Male1,
+    image: Dale,
   },
 };

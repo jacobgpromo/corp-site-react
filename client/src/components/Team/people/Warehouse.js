@@ -60,6 +60,13 @@ import KevinD from "../../../images/team/NewWarehouse/Kevin Delgado.png";
 import MichaelA from "../../../images/team/NewWarehouse/Michael.png";
 import Jacob from "../../../images/team/Warehouse/Jacob B2.png";
 import Frank from "../../../images/team/Warehouse/Frank C.png";
+import Carnell from "../../../images/team/Warehouse/Carnell-Tibbs.png";
+import ChristianA from "../../../images/team/Warehouse/Christian-Arroyo-Carrillo.png";
+import Irene from "../../../images/team/Warehouse/Irene-Lopez.png";
+import Jacques from "../../../images/team/Warehouse/Jacques-Miller.png";
+import KarlaA from "../../../images/team/Warehouse/Karla-Almendarez.png";
+import LevettiaW from "../../../images/team/Warehouse/Levettia-Walton.png";
+import MariaC from "../../../images/team/Warehouse/Maria-Guzman-Contreras.png";
 
 //These are the default photos to be used when photo no avail.
 import Male1 from "../../../images/team/Male1.jpg";
@@ -669,7 +676,7 @@ export const People = {
     movie: "",
     vacation: "",
     why: "",
-    image: Female1,
+    image: LevettiaW,
   },
   Jacques: {
     name: "Jacques Miller",
@@ -678,7 +685,7 @@ export const People = {
     movie: "",
     vacation: "",
     why: "",
-    image: Male1,
+    image: Jacques,
   },
   Carnell: {
     name: "Carnell Tibbs",
@@ -687,7 +694,7 @@ export const People = {
     movie: "",
     vacation: "",
     why: "",
-    image: Male1,
+    image: Carnell,
   },
   MariaC: {
     name: "María Soledad Guzmán Contreras",
@@ -696,7 +703,7 @@ export const People = {
     movie: "",
     vacation: "",
     why: "",
-    image: Female1,
+    image: MariaC,
   },
   ChristianA: {
     name: "Christian Arroyo-Carrillo",
@@ -705,16 +712,16 @@ export const People = {
     movie: "",
     vacation: "",
     why: "",
-    image: Female1,
+    image: ChristianA,
   },
-  Karla: {
+  KarlaA: {
     name: "Karla Almendarez",
     title: "Inventory",
     bio: "",
     movie: "",
     vacation: "",
     why: "",
-    image: Female1,
+    image: KarlaA,
   },
   Irene: {
     name: "Irene Lopez",
@@ -723,6 +730,6 @@ export const People = {
     movie: "",
     vacation: "",
     why: "",
-    image: Female1,
+    image: Irene,
   },
 };
