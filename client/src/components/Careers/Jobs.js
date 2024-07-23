@@ -35,6 +35,17 @@ class Jobs extends Component {
               </a>
             </h3>
           </div>
+          <div style={{ borderTop: "1px solid #d8dadc" }}>
+            <h3>
+              <a
+                className="apply-link"
+                target="blank"
+                href="https://overturepromotions.applytojob.com/apply/RoZUMascF6/Shipping-Coordinator"
+              >
+                Shipping Coordinator
+              </a>
+            </h3>
+          </div>
 
           {/* <div style={{borderTop: '1px solid #d8dadc'}}>
                         <h3>Web Developer </h3>
