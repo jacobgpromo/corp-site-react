@@ -592,4 +592,13 @@ export const People = {
     why: "",
     image: JayliaS,
   },
+  Makalah: {
+    name: "Makalah Morrissette",
+    title: "Shipping Coordinator",
+    bio: "",
+    movie: "",
+    vacation: "",
+    why: "",
+    image: Female1,
+  },
 };
