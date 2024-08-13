@@ -865,15 +865,6 @@ export const People = {
     why: "",
     image: AmandaG,
   },
-  Annabelle: {
-    name: "Annabelle Cocom",
-    title: "Account Admin",
-    bio: "",
-    movie: "",
-    vacation: "",
-    why: "",
-    image: Annabelle,
-  },
   AudreyM: {
     name: "Audrey MacVicar",
     title: "Sales Intern",
