@@ -9,7 +9,6 @@ import Carolina from "../../../images/team/Embrodiery/Carolina.jpg";
 import Dorotea from "../../../images/team/Embrodiery/Dorotea.jpg";
 import Zenaida from "../../../images/team/Embrodiery/Zenaida.jpg";
 import Victor from "../../../images/team/Embrodiery/Victor.jpg";
-import Rolando from "../../../images/team/Embrodiery/RolandoPuck.jpg";
 import Inocente from "../../../images/team/Embrodiery/Inocente.jpg";
 import Debra from "../../../images/team/Embrodiery/DebraD.jpg";
 import MiguelG from "../../../images/team/Embrodiery/MiguelG.jpg";
@@ -136,15 +135,6 @@ export const People = {
     vacation: "",
     why: "",
     image: Victor,
-  },
-  Rolando: {
-    name: "Rolando Puck",
-    title: "Production Manager",
-    bio: "",
-    movie: "",
-    vacation: "",
-    why: "",
-    image: Rolando,
   },
   Alejandra: {
     name: "Alejandra Ayon",

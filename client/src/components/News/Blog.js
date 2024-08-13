@@ -11,6 +11,17 @@ const Blog = () => {
           recognition, industry news, and acquisitions.
         </p>
         <h4 className="news-orange">Overture in the News</h4>
+        <p className="news-strong">August 2024</p>
+        <p className="basic">
+          Overture Promotions releases its 2023 ESG Report.
+        </p>
+        <a
+          href="https://www.ppai.org/media-hub/3-takeaways-from-overture-promotions-esg-report/?utm_campaign=Newslink&utm_medium=email&_hsenc=p2ANqtz-8sfXPb9L0RphS_r1w5l2BO93PcP6agUIvKU1Ak0Kv6vj8ggoT-dy26MPWa_-4_RgLyHaviryBGDE5FPzwyHBRWkjFMF5xmiPmvm28fsTaJXQn5mdo&_hsmi=319907093&utm_content=319907093&utm_source=hs_email"
+          className="news-link"
+          target="blank"
+        >
+          https://www.ppai.org/media-hub/3-takeaways-from-overture-promotions-esg-report/
+        </a>
         <p className="news-strong">June 2024</p>
         <p className="basic">
           Overture Promotions celebrates 6 years in partnership with local
@@ -200,6 +211,13 @@ const Blog = () => {
         </a>
 
         <h4 className="news-orange">Press Releases</h4>
+        <p className="news-strong">August 2024</p>
+        <p className="basic">
+          Overture Promotions releases its 2023 ESG Report.
+        </p>
+        <a href="/esg" className="news-link">
+          https://www.overturepromotions.com/esg
+        </a>
         <p className="news-strong">April 2024</p>
         <p className="basic">
           Overture Promotions hired Andrew Kelly to a newly created,

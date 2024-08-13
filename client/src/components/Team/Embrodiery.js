@@ -37,11 +37,6 @@ class Embrodiery extends Component {
             title={People.Wendy.title}
           />
           <Employee
-            image={People.Rolando.image}
-            name={People.Rolando.name}
-            title={People.Rolando.title}
-          />
-          <Employee
             image={People.Gabriel.image}
             name={People.Gabriel.name}
             title={People.Gabriel.title}
