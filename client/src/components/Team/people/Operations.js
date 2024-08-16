@@ -601,4 +601,13 @@ export const People = {
     why: "",
     image: Female1,
   },
+  Sania: {
+    name: "Sania Lee",
+    title: "HR Intern",
+    bio: "",
+    movie: "",
+    vacation: "",
+    why: "",
+    image: Female1,
+  },
 };

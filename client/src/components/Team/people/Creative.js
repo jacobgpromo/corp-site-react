@@ -190,4 +190,13 @@ export const People = {
     why: "",
     image: TimothyC,
   },
+  LesleyR: {
+    name: "Lesley Romero",
+    title: "Marketing Intern",
+    bio: "",
+    movie: "",
+    vacation: "",
+    why: "",
+    image: Female1,
+  },
 };

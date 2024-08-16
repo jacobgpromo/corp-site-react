@@ -94,6 +94,10 @@ class Creative extends Component {
             name={People.Liliibeth.name}
             title={People.Liliibeth.title}
           />
+          <NotPictured
+            name={People.LesleyR.name}
+            title={People.LesleyR.title}
+          />
         </div>
       </div>
     );
