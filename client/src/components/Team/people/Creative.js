@@ -84,7 +84,7 @@ export const People = {
   },
   Victoria: {
     name: "Victoria Robertson",
-    title: "Marketing Manager",
+    title: "Sr Marketing Operations Manager",
     bio: "",
     movie: "Some Like it Hot",
     vacation: "Fiji",
@@ -164,7 +164,7 @@ export const People = {
     image: Female1,
   },
   Liliibeth: {
-    name: "Liliibeth Martinez",
+    name: "Lilibeth Martinez",
     title: "Marketing Intern",
     bio: "",
     movie: "",
