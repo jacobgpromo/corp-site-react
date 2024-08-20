@@ -53,7 +53,7 @@ class Jobs extends Component {
                 target="blank"
                 href="https://overturepromotions.applytojob.com/apply/s3ssbeZmWN/Production-Supervisor-Bilingual"
               >
-                NetSuite Production Supervisor - Bilingual
+                Production Supervisor - Bilingual
               </a>
             </h3>
           </div>
