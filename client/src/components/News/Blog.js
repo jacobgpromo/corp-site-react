@@ -211,6 +211,13 @@ const Blog = () => {
         </a>
 
         <h4 className="news-orange">Press Releases</h4>
+        <p className="news-strong">September 2024</p>
+        <p className="basic">
+          Overture Promotions Acquires Swedish Distributor Brandon
+        </p>
+        <a href="/brandon" className="news-link">
+          https://www.overturepromotions.com/brandon
+        </a>
         <p className="news-strong">August 2024</p>
         <p className="basic">
           Overture Promotions releases its 2023 ESG Report.

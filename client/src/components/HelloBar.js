@@ -4,11 +4,11 @@ const HelloBar = () => {
   return (
     <div className="hellobar-div">
       <p className="hellobar-p">
-        Every Kit Made to Your Specifications? You’ve Got to be Kitting! Request
-        Your Custom Kit Here!
+        Overture acquires Swedish branded merch agency Brandon, further
+        expanding our global offering!
       </p>
-      <a href="/kitting" className="hellobar-link">
-        Request a Kit{" "}
+      <a href="/brandon" className="hellobar-link">
+        Learn More
       </a>
     </div>
   );

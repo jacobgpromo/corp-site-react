@@ -85,8 +85,16 @@ class ContactForm extends Component {
           <div className="col-md-4">
             <div className="address">
               <h4 className="overture-contact-address">Address</h4>
+              <h5 className="info-contact darker">North America</h5>
               <h5 className="info-contact">800 S. Northpoint Blvd.</h5>
               <h5 className="infoBreak-contact">Waukegan, IL 60085</h5>
+              <h5 className="info-contact darker">EMEA</h5>
+              <h5 className="info-contact">Fabriksstråket 31</h5>
+              <h5 className="infoBreak-contact">43376 Jonsered Sweden</h5>
+              <p className="map-paragraph">
+                Overture's headquarters in Waukegan, Illinois sits upon the
+                traditional lands of the Potawatomi, Chippewa and Ottawa tribes.
+              </p>
             </div>
             <div className="phone">
               <h4 className="overture-contact-address">Contact</h4>

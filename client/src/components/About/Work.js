@@ -107,16 +107,16 @@ const Work = () => {
           <div className="where-box">
             <h4 className="about-orange-words">Where we work.</h4>
             <p className="basic">
-              The magic starts in our offices in Chicago and Dallas, then
-              spreads to all the places around the world that you need to reach.
-              Our Brand Unbound global network is a collective of best-in-market
-              promotional marketing experts, giving us local partners in Canada,
-              Mexico, Central America, UK, Ireland, Netherlands, Malta, Germany,
-              Russia, China, Australia, and Hong Kong. To help reduce your
-              costs, we create import sourcing programs for large quantity and
-              custom orders, and we regularly import from our accredited
-              factories overseas. International shipments leave our warehouse
-              daily.
+              The magic starts in our offices in Chicago, Dallas, Shanghai, and
+              Gothenburg, Sweden, then spreads to all the places around the
+              world that you need to reach. Our Brand Unbound global network is
+              a collective of best-in-market promotional marketing experts,
+              giving us local partners in Canada, Mexico, Central America, UK,
+              Ireland, Netherlands, Malta, Germany, Russia, China, Australia,
+              and Hong Kong. To help reduce your costs, we create import
+              sourcing programs for large quantity and custom orders, and we
+              regularly import from our accredited factories overseas.
+              International shipments leave our warehouse daily.
             </p>
             <img
               className="unbound-img"

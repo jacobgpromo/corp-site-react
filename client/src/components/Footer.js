@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import Map from "../images/home/map.svg";
+import WorldMap from "../images/home/worldmap.png";
 import { Link } from "react-router-dom";
 import Dallas from "../images/home/love-dallas.svg";
 
@@ -59,22 +60,21 @@ class Footer extends Component {
             </div>
           </div>
           <div className="col-md-4 map-divy">
+            <p></p>
+
+            {/* <img src={Map} alt="map" /> */}
+            <img src={WorldMap} alt="map" style={{ width: "100%" }} />
+            <p></p>
             <p className="map-paragraph">
-              Nationwide network of 200 warehouses
-              <br />
-              Canadian partner
+              Offices in Chicago, Dallas, Sweden & Shanghai, with global
+              distribution in every major region.
             </p>
-            <img src={Map} alt="map" />
-            <br />
-            <img
+
+            {/* <img
               src={Dallas}
               alt="Love-dallas"
               style={{ margin: "30px 0 15px 0" }}
-            />
-            <p className="map-paragraph">
-              Overture's headquarters in Waukegan, Illinois sits upon the
-              traditional lands of the Potawatomi, Chippewa and Ottawa tribes.
-            </p>
+            /> */}
           </div>
           <div className="col-md-4 col-md-offset-1 footer-right-nav">
             <h4 className="overture">Opportunity is knocking</h4>
