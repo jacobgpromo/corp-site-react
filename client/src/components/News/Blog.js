@@ -11,6 +11,18 @@ const Blog = () => {
           recognition, industry news, and acquisitions.
         </p>
         <h4 className="news-orange">Overture in the News</h4>
+        <p className="news-strong">September 2024</p>
+        <p className="basic">
+          Overture Promotions acquires Swedish branded merch agency Brandon,
+          further expanding its global offering.{" "}
+        </p>
+        <a
+          href="https://www.printandpromomarketing.com/article/overture-promotions-makes-first-acquisition-in-europe/#ne=731f8e82cfcd769df62f4b4bb888add7&utm_source=print-%26-promo-marketing-headlines&utm_medium=newsletter&utm_campaign=2024-09-03"
+          className="news-link"
+          target="blank"
+        >
+          https://www.printandpromomarketing.com/article/overture-promotions-makes-first-acquisition-in-europe/#ne=731f8e82cfcd769df62f4b4bb888add7&utm_source=print-%26-promo-marketing-headlines&utm_medium=newsletter&utm_campaign=2024-09-03
+        </a>
         <p className="news-strong">August 2024</p>
         <p className="basic">
           Overture Promotions releases its 2023 ESG Report.
