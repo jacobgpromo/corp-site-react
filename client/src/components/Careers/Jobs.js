@@ -40,17 +40,6 @@ class Jobs extends Component {
               <a
                 className="apply-link"
                 target="blank"
-                href="https://overturepromotions.applytojob.com/apply/mt5biOILqW/NetSuite-Administrator"
-              >
-                NetSuite Administrator
-              </a>
-            </h3>
-          </div>
-          <div style={{ borderTop: "1px solid #d8dadc" }}>
-            <h3>
-              <a
-                className="apply-link"
-                target="blank"
                 href="https://overturepromotions.applytojob.com/apply/s3ssbeZmWN/Production-Supervisor-Bilingual"
               >
                 Production Supervisor - Bilingual
@@ -65,17 +54,6 @@ class Jobs extends Component {
                 href="https://overturepromotions.applytojob.com/apply/V3lzXUzbRP/Customer-Success-Manager"
               >
                 Customer Success Manager
-              </a>
-            </h3>
-          </div>
-          <div style={{ borderTop: "1px solid #d8dadc" }}>
-            <h3>
-              <a
-                className="apply-link"
-                target="blank"
-                href="https://overturepromotions.applytojob.com/apply/VqsuxwMj9K/Project-Coordinator-Web-Development"
-              >
-                Project Coordinator - Web Development
               </a>
             </h3>
           </div>
