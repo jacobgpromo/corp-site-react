@@ -35,17 +35,7 @@ class Jobs extends Component {
               </a>
             </h3>
           </div>
-          <div style={{ borderTop: "1px solid #d8dadc" }}>
-            <h3>
-              <a
-                className="apply-link"
-                target="blank"
-                href="https://overturepromotions.applytojob.com/apply/s3ssbeZmWN/Production-Supervisor-Bilingual"
-              >
-                Production Supervisor - Bilingual
-              </a>
-            </h3>
-          </div>
+
           <div style={{ borderTop: "1px solid #d8dadc" }}>
             <h3>
               <a
