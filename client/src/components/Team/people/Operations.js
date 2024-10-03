@@ -620,4 +620,13 @@ export const People = {
     why: "",
     image: Female1,
   },
+  Kiernan: {
+    name: "Kiernan Scrima",
+    title: "Customer Success Manager",
+    bio: "",
+    movie: "",
+    vacation: "",
+    why: "",
+    image: Female1,
+  },
 };
