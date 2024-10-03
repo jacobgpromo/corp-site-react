@@ -732,4 +732,13 @@ export const People = {
     why: "",
     image: Irene,
   },
+  Rogelio: {
+    name: "Rogelio Carreon",
+    title: "Rogelio Carreon",
+    bio: "",
+    movie: "",
+    vacation: "",
+    why: "",
+    image: Irene,
+  },
 };
