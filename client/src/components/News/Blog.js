@@ -167,6 +167,15 @@ const Blog = () => {
         </a>
 
         <h4 className="news-orange">Awards & Recognition</h4>
+        <p className="news-strong">October 2024</p>
+        <p className="basic">Jo Gilley ranks 26 on ASI's Power 50 list.</p>
+        <a
+          href="https://members.asicentral.com/news/awards/october-2024/counselor-power-50-2024-no-26-jo-gilley-overture-promotions"
+          className="news-link"
+          target="blank"
+        >
+          https://members.asicentral.com/news/awards/october-2024/counselor-power-50-2024-no-26-jo-gilley-overture-promotions
+        </a>
         <p className="news-strong">January 2024</p>
         <p className="basic">
           Overture named one of Counselor Magazine's Best Places to Work.
