@@ -629,4 +629,13 @@ export const People = {
     why: "",
     image: Female1,
   },
+  Boitumelo: {
+    name: "Boitumelo Bogatsu",
+    title: "Customer Care Coordinator",
+    bio: "",
+    movie: "",
+    vacation: "",
+    why: "",
+    image: Male1,
+  },
 };
