@@ -113,8 +113,8 @@ class Header extends Component {
         </div>
         <div className="header-mobile">
           <div className="hellobar-div-mobile">
-            <a href="/kitting" className="hellobar-cta">
-              Overture acquire Brandon
+            <a href="/brandon" className="hellobar-cta">
+              Overture acquires Brandon
             </a>
           </div>
           <div className="container">
