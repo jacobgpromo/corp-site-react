@@ -638,4 +638,13 @@ export const People = {
     why: "",
     image: Male1,
   },
+  Robb: {
+    name: "Robb Olson",
+    title: "Training Coordinator",
+    bio: "",
+    movie: "",
+    vacation: "",
+    why: "",
+    image: Male1,
+  },
 };
