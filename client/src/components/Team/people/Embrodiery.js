@@ -352,4 +352,22 @@ export const People = {
     why: "",
     image: Baltzar,
   },
+  William: {
+    name: "William Raul Quinde Bermeo",
+    title: "Screen Print Associate",
+    bio: "",
+    movie: "",
+    vacation: "",
+    why: "",
+    image: Male1,
+  },
+  Elvia: {
+    name: "Elvia Naves Morales",
+    title: "Screen Print Associate",
+    bio: "",
+    movie: "",
+    vacation: "",
+    why: "",
+    image: Female1,
+  },
 };

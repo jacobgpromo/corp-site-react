@@ -186,7 +186,13 @@ class Embrodiery extends Component {
         <Element style={{ display: "none" }} id="creative-orange">
           Not Pictured
         </Element>
-        <div className="row" style={{ marginBottom: "50px" }}></div>
+        <div className="row" style={{ marginBottom: "50px" }}>
+          <NotPictured name={People.Elvia.name} title={People.Elvia.title} />
+          <NotPictured
+            name={People.William.name}
+            title={People.William.title}
+          />
+        </div>
       </div>
     );
   }
