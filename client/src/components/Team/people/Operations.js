@@ -53,6 +53,7 @@ import DianaM from "../../../images/team/NewWarehouse/Diana Mendoza.png";
 import KathleenK from "../../../images/team/Operations/KathyR.png";
 import JayliaS from "../../../images/team/Operations/Jaylia-Swift.png";
 import Makalah from "../../../images/team/Operations/Makalah-Morrissette.png";
+import JustineR from "../../../images/team/Operations/Justine-Rivlin .png";
 
 //These are the default photos to be used when photo no avail.
 import Male1 from "../../../images/team/Male1.jpg";
@@ -618,7 +619,7 @@ export const People = {
     movie: "",
     vacation: "",
     why: "",
-    image: Female1,
+    image: JustineR,
   },
   Kiernan: {
     name: "Kiernan Scrima",
