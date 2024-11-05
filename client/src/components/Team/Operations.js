@@ -92,6 +92,11 @@ class Operations extends Component {
             title={People.Noelia.title}
           />
           <Employee
+            image={People.Robb.image}
+            name={People.Robb.name}
+            title={People.Robb.title}
+          />
+          <Employee
             image={People.Jeff.image}
             name={People.Jeff.name}
             title={People.Jeff.title}
@@ -217,6 +222,11 @@ class Operations extends Component {
             title={People.MichelleB.title}
           />
           <Employee
+            image={People.Kiernan.image}
+            name={People.Kiernan.name}
+            title={People.Kiernan.title}
+          />
+          <Employee
             image={People.Cristian.image}
             name={People.Cristian.name}
             title={People.Cristian.title}
@@ -266,14 +276,9 @@ class Operations extends Component {
           <NotPictured name={People.Chloe.name} title={People.Chloe.title} />
           <NotPictured name={People.DianaM.name} title={People.DianaM.title} />
           <NotPictured
-            name={People.Kiernan.name}
-            title={People.Kiernan.title}
-          />
-          <NotPictured
             name={People.MaribelB.name}
             title={People.MaribelB.title}
           />
-          <NotPictured name={People.Robb.name} title={People.Robb.title} />
           <NotPictured name={People.Sania.name} title={People.Sania.title} />
         </div>
       </div>
