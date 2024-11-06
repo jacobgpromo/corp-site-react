@@ -63,7 +63,6 @@ import Frank from "../../../images/team/Warehouse/Frank C.png";
 import Carnell from "../../../images/team/Warehouse/Carnell-Tibbs.png";
 import ChristianA from "../../../images/team/Warehouse/Christian-Arroyo-Carrillo.png";
 import Irene from "../../../images/team/Warehouse/Irene-Lopez.png";
-import Jacques from "../../../images/team/Warehouse/Jacques-Miller.png";
 import KarlaA from "../../../images/team/Warehouse/Karla-Almendarez.png";
 import LevettiaW from "../../../images/team/Warehouse/Levettia-Walton.png";
 import MariaC from "../../../images/team/Warehouse/Maria-Guzman-Contreras.png";
@@ -677,15 +676,6 @@ export const People = {
     vacation: "",
     why: "",
     image: LevettiaW,
-  },
-  Jacques: {
-    name: "Jacques Miller",
-    title: "Inventory Associate",
-    bio: "",
-    movie: "",
-    vacation: "",
-    why: "",
-    image: Jacques,
   },
   Carnell: {
     name: "Carnell Tibbs",

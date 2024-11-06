@@ -5,7 +5,6 @@ import Edgar from "../../../images/team/Embrodiery/Edgar.jpg";
 import Esmeralda from "../../../images/team/Embrodiery/Esmerelda.jpg";
 import Maria from "../../../images/team/Embrodiery/Maria.jpg";
 import Adriana from "../../../images/team/Embrodiery/Adriana.jpg";
-import Carolina from "../../../images/team/Embrodiery/Carolina.jpg";
 import Dorotea from "../../../images/team/Embrodiery/Dorotea.jpg";
 import Zenaida from "../../../images/team/Embrodiery/Zenaida.jpg";
 import Victor from "../../../images/team/Embrodiery/Victor.jpg";
@@ -99,15 +98,6 @@ export const People = {
     vacation: "",
     why: "",
     image: Adriana,
-  },
-  Carolina: {
-    name: "Carolina Flores",
-    title: "Senior Embroidery Operator",
-    bio: "",
-    movie: "",
-    vacation: "",
-    why: "",
-    image: Carolina,
   },
   Dorotea: {
     name: "Dorotea Juarez",
