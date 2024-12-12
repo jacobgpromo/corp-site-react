@@ -360,4 +360,13 @@ export const People = {
     why: "",
     image: Female1,
   },
+  Lorena: {
+    name: "Lorena Lara",
+    title: "Production Receiving Associate",
+    bio: "",
+    movie: "",
+    vacation: "",
+    why: "",
+    image: Female1,
+  },
 };
