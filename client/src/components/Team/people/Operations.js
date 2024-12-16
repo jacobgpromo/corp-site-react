@@ -56,6 +56,7 @@ import Makalah from "../../../images/team/Operations/Makalah-Morrissette.png";
 import JustineR from "../../../images/team/Operations/Justine-Rivlin .png";
 import Kiernan from "../../../images/team/Operations/Kiernan.png";
 import Robb from "../../../images/team/Operations/Robb-Olsen.png";
+import NicoleS from "../../../images/team/Sales/Nicole.jpg";
 
 //These are the default photos to be used when photo no avail.
 import Male1 from "../../../images/team/Male1.jpg";
@@ -649,5 +650,16 @@ export const People = {
     vacation: "",
     why: "",
     image: Robb,
+  },
+  NicoleS: {
+    name: "Nicole Somerville",
+    title: "Program Success Manager",
+    bio: "As a fast walker and talker, Nicole is always on the move and ready to tackle the next challenge. She uses her accounting background and love of operations to help provide clients with robust solutions to complex implementations. She believes that a brand can leave a lasting impression with a small amount of marketing and she prides herself on helping clients’ messages reach the target audience in the most effective and memorable way possible. When she is not working, she loves spending time with her family, tending to her plants, and adventuring outside. ",
+    movie:
+      "It’s hard to pick just one! I love animated movies and rom-coms so I would probably pick either Brave or The Wedding Singer….BUT the 90s kid in me is screaming “TMNT!” (for the original live action Teenage Mutant Ninja Turtles) so any of those 3 would work",
+    vacation:
+      "I love to travel and adventure to new places, but my favorite spot would include warm weather, either the beach or a pool, and a fruity drink with an umbrella in it!",
+    why: "I love working at Overture because of the shared sense of teamwork, dedication, and excitement we have across the company. No matter the client or the promotion, every department works together to make it a success and we all take immense pride in a job well done.",
+    image: NicoleS,
   },
 };

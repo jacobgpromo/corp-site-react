@@ -27,7 +27,6 @@ import Lindsay from "../../../images/team/Sales/Lindsay.jpg";
 import Ethan from "../../../images/team/ECom/Ethan.jpg";
 import Dean from "../../../images/team/ECom/Dean.jpg";
 import Katelynn from "../../../images/team/ECom/Katelynn.jpg";
-import NicoleS from "../../../images/team/Sales/Nicole.jpg";
 import Eric from "../../../images/team/ExpertsPhotos/EricY.jpg";
 
 export const People = {
@@ -245,17 +244,6 @@ export const People = {
       "My favorite trip was filled with sushi, live music, and hiking in Seattle with my fiancé, Annie.",
     why: "I love the brilliance that Overture can throw at any project. Overture’s collection of artists, tech wizards, logistical gurus, production perfectionists, and passionate sales people come together regularly to accomplish hard tasks.",
     image: Ethan,
-  },
-  NicoleS: {
-    name: "Nicole Somerville",
-    title: "Sr. Account Executive",
-    bio: "As a fast walker and talker, Nicole is always on the move and ready to tackle the next challenge. She uses her accounting background and love of operations to help provide clients with robust solutions to complex implementations. She believes that a brand can leave a lasting impression with a small amount of marketing and she prides herself on helping clients’ messages reach the target audience in the most effective and memorable way possible. When she is not working, she loves spending time with her family, tending to her plants, and adventuring outside. ",
-    movie:
-      "It’s hard to pick just one! I love animated movies and rom-coms so I would probably pick either Brave or The Wedding Singer….BUT the 90s kid in me is screaming “TMNT!” (for the original live action Teenage Mutant Ninja Turtles) so any of those 3 would work",
-    vacation:
-      "I love to travel and adventure to new places, but my favorite spot would include warm weather, either the beach or a pool, and a fruity drink with an umbrella in it!",
-    why: "I love working at Overture because of the shared sense of teamwork, dedication, and excitement we have across the company. No matter the client or the promotion, every department works together to make it a success and we all take immense pride in a job well done.",
-    image: NicoleS,
   },
   Dean: {
     name: "Dean Schwartz",

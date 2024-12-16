@@ -37,6 +37,11 @@ class Operations extends Component {
             title={People.RonG.title}
           />
           <Employee
+            image={People.NicoleS.image}
+            name={People.NicoleS.name}
+            title={People.NicoleS.title}
+          />
+          <Employee
             image={People.Troy.image}
             name={People.Troy.name}
             title={People.Troy.title}
