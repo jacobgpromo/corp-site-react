@@ -40,17 +40,6 @@ class Jobs extends Component {
               <a
                 className="apply-link"
                 target="blank"
-                href="https://overturepromotions.applytojob.com/apply/FSg9C04veE/Bilingual-Payroll-Specialist"
-              >
-                Bilingual Payroll Specialist
-              </a>
-            </h3>
-          </div>
-          <div style={{ borderTop: "1px solid #d8dadc" }}>
-            <h3>
-              <a
-                className="apply-link"
-                target="blank"
                 href="https://overturepromotions.applytojob.com/apply/mt5biOILqW/NetSuite-Administrator"
               >
                 NetSuite Administrator
