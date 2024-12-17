@@ -66,6 +66,7 @@ import Irene from "../../../images/team/Warehouse/Irene-Lopez.png";
 import KarlaA from "../../../images/team/Warehouse/Karla-Almendarez.png";
 import LevettiaW from "../../../images/team/Warehouse/Levettia-Walton.png";
 import MariaC from "../../../images/team/Warehouse/Maria-Guzman-Contreras.png";
+import AnthonyV from "../../../images/team/Warehouse/Anthony-Vara.png";
 
 //These are the default photos to be used when photo no avail.
 import Male1 from "../../../images/team/Male1.jpg";
@@ -756,6 +757,6 @@ export const People = {
     movie: "",
     vacation: "",
     why: "",
-    image: Female1,
+    image: AnthonyV,
   },
 };
