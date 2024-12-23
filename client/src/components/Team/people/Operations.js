@@ -662,4 +662,13 @@ export const People = {
     why: "I love working at Overture because of the shared sense of teamwork, dedication, and excitement we have across the company. No matter the client or the promotion, every department works together to make it a success and we all take immense pride in a job well done.",
     image: NicoleS,
   },
+  StephanieV: {
+    name: "Stephanie Vega",
+    title: "Payroll Specialist",
+    bio: "",
+    movie: "",
+    vacation: "",
+    why: "",
+    image: Female1,
+  },
 };
