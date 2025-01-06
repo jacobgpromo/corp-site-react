@@ -671,4 +671,13 @@ export const People = {
     why: "",
     image: Female1,
   },
+  MatthewS: {
+    name: "Matthew Searle",
+    title: "Customer Success",
+    bio: "",
+    movie: "",
+    vacation: "",
+    why: "",
+    image: Male1,
+  },
 };
