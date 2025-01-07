@@ -680,4 +680,13 @@ export const People = {
     why: "",
     image: Male1,
   },
+  Giovanni: {
+    name: "Giovanni Falco",
+    title: "Ecommerce Manager",
+    bio: "",
+    movie: "",
+    vacation: "",
+    why: "",
+    image: Male1,
+  },
 };
