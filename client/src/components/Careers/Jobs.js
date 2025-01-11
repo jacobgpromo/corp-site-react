@@ -29,17 +29,6 @@ class Jobs extends Component {
               <a
                 className="apply-link"
                 target="blank"
-                href="https://overturepromotions.applytojob.com/apply/DKeZBtnWnW/Overture-Promotions-Pipeline"
-              >
-                Overture Promotions - Pipeline
-              </a>
-            </h3>
-          </div>
-          <div style={{ borderTop: "1px solid #d8dadc" }}>
-            <h3>
-              <a
-                className="apply-link"
-                target="blank"
                 href="https://overturepromotions.applytojob.com/apply/mt5biOILqW/NetSuite-Administrator"
               >
                 NetSuite Administrator
@@ -51,9 +40,9 @@ class Jobs extends Component {
               <a
                 className="apply-link"
                 target="blank"
-                href="https://overturepromotions.applytojob.com/apply/SKO438Br1J/Corporate-Recruiter"
+                href="https://overturepromotions.applytojob.com/apply/DKeZBtnWnW/Overture-Promotions-Pipeline"
               >
-                Corporate Recruiter
+                Overture Promotions - Pipeline
               </a>
             </h3>
           </div>
@@ -65,6 +54,17 @@ class Jobs extends Component {
                 href="https://overturepromotions.applytojob.com/apply/HaEnHgnPuO/Program-Project-Coordinator"
               >
                 Program Project Coordinator
+              </a>
+            </h3>
+          </div>
+          <div style={{ borderTop: "1px solid #d8dadc" }}>
+            <h3>
+              <a
+                className="apply-link"
+                target="blank"
+                href="https://overturepromotions.applytojob.com/apply/fR57a9AFdI/Purchasing-Assistant"
+              >
+                Purchasing Assistant
               </a>
             </h3>
           </div>
