@@ -370,4 +370,13 @@ export const People = {
     why: "",
     image: Lorena,
   },
+  MirnaN: {
+    name: "Mirna Naves",
+    title: "Screen Print Associate",
+    bio: "",
+    movie: "",
+    vacation: "",
+    why: "",
+    image: Female1,
+  },
 };

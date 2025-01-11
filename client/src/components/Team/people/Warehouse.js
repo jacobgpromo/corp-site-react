@@ -759,4 +759,13 @@ export const People = {
     why: "",
     image: AnthonyV,
   },
+  LuisG: {
+    name: "Luis Garcia",
+    title: "Special Projects Associate",
+    bio: "",
+    movie: "",
+    vacation: "",
+    why: "",
+    image: Male1,
+  },
 };
