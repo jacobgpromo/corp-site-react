@@ -57,6 +57,7 @@ import JustineR from "../../../images/team/Operations/Justine-Rivlin .png";
 import Kiernan from "../../../images/team/Operations/Kiernan.png";
 import Robb from "../../../images/team/Operations/Robb-Olsen.png";
 import NicoleS from "../../../images/team/Sales/Nicole.jpg";
+import Giovanni from "../../../images/team/Operations/Giovanni-Falco.png";
 
 //These are the default photos to be used when photo no avail.
 import Male1 from "../../../images/team/Male1.jpg";
@@ -687,6 +688,15 @@ export const People = {
     movie: "",
     vacation: "",
     why: "",
-    image: Male1,
+    image: Giovanni,
+  },
+  Sarafina: {
+    name: "Safina Khan",
+    title: "Billing Coordinator",
+    bio: "",
+    movie: "",
+    vacation: "",
+    why: "",
+    image: Female1,
   },
 };
