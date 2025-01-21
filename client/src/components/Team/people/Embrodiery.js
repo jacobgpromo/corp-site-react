@@ -29,8 +29,10 @@ import OlgaR from "../../../images/team/Embrodiery/OlgaR.jpg";
 import OscarB from "../../../images/team/Embrodiery/OscarB.jpg";
 import SontinaL from "../../../images/team/Embrodiery/Sontia.png";
 import AnaI from "../../../images/team/Embrodiery/Ana L.png";
-import Baltzar from "../../../images/team/Embrodiery/Baltazar-Alvarez-Vallejo.png";
+import Baltzar from "../../../images/team/Embrodiery/Baltazar Alvarez Vallejo.png";
 import Lorena from "../../../images/team/Embrodiery/Lorena-Lara.png";
+import Elvia from "../../../images/team/Embrodiery/Elvia Naves Morales.png";
+import William from "../../../images/team/Embrodiery/William Raul Quinde Bermeo.png";
 
 import Male1 from "../../../images/team/Male1.jpg";
 import Female1 from "../../../images/team/Female1.jpg";
@@ -350,7 +352,7 @@ export const People = {
     movie: "",
     vacation: "",
     why: "",
-    image: Male1,
+    image: William,
   },
   Elvia: {
     name: "Elvia Naves Morales",
@@ -359,7 +361,7 @@ export const People = {
     movie: "",
     vacation: "",
     why: "",
-    image: Female1,
+    image: Elvia,
   },
   Lorena: {
     name: "Lorena Lara",

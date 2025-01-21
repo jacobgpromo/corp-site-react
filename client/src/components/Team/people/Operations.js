@@ -51,13 +51,14 @@ import ThomasJ from "../../../images/team/Operations/Tommy J2.png";
 import Tye from "../../../images/team/Operations/Tye S2.png";
 import DianaM from "../../../images/team/NewWarehouse/Diana Mendoza.png";
 import KathleenK from "../../../images/team/Operations/KathyR.png";
-import JayliaS from "../../../images/team/Operations/Jaylia-Swift.png";
-import Makalah from "../../../images/team/Operations/Makalah-Morrissette.png";
+import JayliaS from "../../../images/team/Operations/Jaylia Swift.png";
+import Makalah from "../../../images/team/Operations/Makalah Morrissette.png";
 import JustineR from "../../../images/team/Operations/Justine-Rivlin .png";
-import Kiernan from "../../../images/team/Operations/Kiernan.png";
-import Robb from "../../../images/team/Operations/Robb-Olsen.png";
+import Kiernan from "../../../images/team/Operations/Kiernon Scrima.png";
+import Robb from "../../../images/team/Operations/Robb Olson.png";
 import NicoleS from "../../../images/team/Sales/Nicole.jpg";
 import Giovanni from "../../../images/team/Operations/Giovanni-Falco.png";
+import MaribelB from "../../../images/team/Operations/Maribel Banda.png";
 
 //These are the default photos to be used when photo no avail.
 import Male1 from "../../../images/team/Male1.jpg";
@@ -569,7 +570,7 @@ export const People = {
     movie: "",
     vacation: "",
     why: "",
-    image: Female1,
+    image: MaribelB,
   },
   DianaM: {
     name: "Diana Gallaga-Mendoza",

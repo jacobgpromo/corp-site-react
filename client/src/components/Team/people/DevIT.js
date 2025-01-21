@@ -56,7 +56,7 @@ export const People = {
   },
   Jacob: {
     name: "Jacob",
-    title: "Junior Web Developer",
+    title: "Web Developer",
     bio: "",
     movie: "",
     vacation: "",

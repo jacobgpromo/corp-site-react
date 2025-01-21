@@ -26,7 +26,7 @@ import Lindsay from "../../../images/team/Sales/Lindsay.jpg";
 
 import Ethan from "../../../images/team/ECom/Ethan.jpg";
 import Dean from "../../../images/team/ECom/Dean.jpg";
-import Katelynn from "../../../images/team/ECom/Katelynn.jpg";
+import Katelynn from "../../../images/team/ExpertsPhotos/Katelynn Fioretto.png";
 import Eric from "../../../images/team/ExpertsPhotos/EricY.jpg";
 
 export const People = {
