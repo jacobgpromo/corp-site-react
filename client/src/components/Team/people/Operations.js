@@ -700,4 +700,13 @@ export const People = {
     why: "",
     image: Female1,
   },
+  Stephanie: {
+    name: "Stephanie Dawe",
+    title: "Recruiter",
+    bio: "",
+    movie: "",
+    vacation: "",
+    why: "",
+    image: Female1,
+  },
 };
