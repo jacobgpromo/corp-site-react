@@ -68,6 +68,7 @@ import LevettiaW from "../../../images/team/Warehouse/Levettia Walton.png";
 import MariaC from "../../../images/team/Warehouse/Maria Soledad Guzman Contreras.png";
 import AnthonyV from "../../../images/team/Warehouse/Anthony-Vara.png";
 import Ofelia from "../../../images/team/Warehouse/Ofelia Martinez Zarate.png";
+import LuisG from "../../../images/team/Warehouse/Luis Garcia - a.png";
 
 //These are the default photos to be used when photo no avail.
 import Male1 from "../../../images/team/Male1.jpg";
