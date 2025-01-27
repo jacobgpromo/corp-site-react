@@ -690,7 +690,7 @@ export const People = {
     image: Carnell,
   },
   MariaC: {
-    name: "María Soledad Guzmán Contreras",
+    name: "María Guzmán Contreras",
     title: "Pick/Pack",
     bio: "",
     movie: "",
