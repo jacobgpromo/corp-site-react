@@ -90,11 +90,6 @@ class Sales extends Component {
             title={People.Cassie.title}
           />
           <Employee
-            image={People.ChrisM.image}
-            name={People.ChrisM.name}
-            title={People.ChrisM.title}
-          />
-          <Employee
             image={People.CourtneyO.image}
             name={People.CourtneyO.name}
             title={People.CourtneyO.title}
