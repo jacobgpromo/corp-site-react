@@ -59,6 +59,7 @@ import Robb from "../../../images/team/Operations/Robb Olson.png";
 import NicoleS from "../../../images/team/Sales/Nicole.jpg";
 import Giovanni from "../../../images/team/Operations/Giovanni-Falco.png";
 import MaribelB from "../../../images/team/Operations/Maribel Banda.png";
+import StephanieV from "../../../images/team/Operations/Stephanie-Vega.png";
 
 //These are the default photos to be used when photo no avail.
 import Male1 from "../../../images/team/Male1.jpg";
@@ -671,7 +672,7 @@ export const People = {
     movie: "",
     vacation: "",
     why: "",
-    image: Female1,
+    image: StephanieV,
   },
   MatthewS: {
     name: "Matthew Searle",
