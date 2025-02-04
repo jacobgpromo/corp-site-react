@@ -130,11 +130,6 @@ class Warehouse extends Component {
           />
           {/* <Employee image={People.NEW PEOPLE HERERERERERERimage} name={People.CarlosO.name} title={People.CarlosO.title} /> */}
           <Employee
-            image={People.Epi.image}
-            name={People.Epi.name}
-            title={People.Epi.title}
-          />
-          <Employee
             image={People.AlexO.image}
             name={People.AlexO.name}
             title={People.AlexO.title}
@@ -309,14 +304,10 @@ class Warehouse extends Component {
             name={People.Ofelia.name}
             title={People.Ofelia.title}
           />
-          <Employee
-            image={People.LuisG.image}
-            name={People.LuisG.name}
-            title={People.LuisG.title}
-          />
         </div>
         <Element id="creative-orange">Not Pictured</Element>
         <div className="row" style={{ marginBottom: "50px" }}>
+          <NotPictured name={People.LuisG.name} title={People.LuisG.title} />
           <NotPictured
             name={People.Natalie.name}
             title={People.Natalie.title}

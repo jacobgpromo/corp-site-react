@@ -79,7 +79,7 @@ import Female2 from "../../../images/team/Female2.jpg";
 export const People = {
   Mario: {
     name: "Mario Maldonado",
-    title: "National Programs Lead",
+    title: "National Programs",
     bio: "",
     movie: "",
     vacation: "",
@@ -187,7 +187,7 @@ export const People = {
   },
   Jacob: {
     name: "Jacob Butler",
-    title: "Receiving",
+    title: "Shipping Lead",
     bio: "",
     movie: "",
     vacation: "",
@@ -196,7 +196,7 @@ export const People = {
   },
   Byron: {
     name: "Byron Calvo",
-    title: "Special Projects",
+    title: "Special Projects Lead",
     bio: "",
     movie: "",
     vacation: "",
@@ -205,7 +205,7 @@ export const People = {
   },
   Alejandra: {
     name: "Alejandra Esteban",
-    title: "Special Projects",
+    title: "Special Projects Lead",
     bio: "",
     movie: "",
     vacation: "",
