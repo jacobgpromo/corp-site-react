@@ -232,6 +232,13 @@ const Blog = () => {
         </a>
 
         <h4 className="news-orange">Press Releases</h4>
+        <p className="news-strong">February 2025</p>
+        <p className="basic">
+          Overture Promotions Acquires Eco Promotional Products
+        </p>
+        <a href="/epp" className="news-link">
+          https://www.overturepromotions.com/epp
+        </a>
         <p className="news-strong">September 2024</p>
         <p className="basic">
           Overture Promotions Acquires Swedish Distributor Brandon

@@ -25,6 +25,7 @@ import SocAudit from "./SocAudit";
 import Kelly from "./Kelly";
 import Esg from "./Esg";
 import Brandon from "./Brandon";
+import EPP from "./EPP";
 
 const Main = () => (
   <main>
@@ -53,6 +54,7 @@ const Main = () => (
       <Route path="/kelly" component={Kelly} />
       <Route path="/esg" component={Esg} />
       <Route path="/brandon" component={Brandon} />
+      <Route path="/epp" component={EPP} />
       <Route component={Error} />
     </Switch>
   </main>
