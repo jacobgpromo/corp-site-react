@@ -8,7 +8,6 @@ import Dave from "../../../images/team/Operations/Dave.jpg";
 import Charles from "../../../images/team/Operations/Charles.jpg";
 import Briana from "../../../images/team/Creative/Briana.jpg";
 import Sam from "../../../images/team/Operations/Sam.jpg";
-import Josella from "../../../images/team/Sales/Josella.jpg";
 import Brian from "../../../images/team/Operations/Brian Rahn.png";
 import KevinS from "../../../images/team/Operations/KevinS.jpg";
 import Kinza from "../../../images/team/Operations/Kinza H.png";
@@ -126,15 +125,7 @@ export const People = {
     why: "",
     image: Brian,
   },
-  Josella: {
-    name: "Josella Boudreau",
-    title: "Web Project Manager",
-    bio: "",
-    movie: "",
-    vacation: "",
-    why: "",
-    image: Josella,
-  },
+
   KevinS: {
     name: "Kevin Scalzo",
     title: "Web Developer",

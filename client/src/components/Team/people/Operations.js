@@ -42,7 +42,6 @@ import AmandaW from "../../../images/team/Operations/Amanda Wolf.png";
 import Laroyce from "../../../images/team/Operations/La'Royce Tanner.png";
 import MichelleB from "../../../images/team/Operations/Michelle Bridges.png";
 import AndrewK from "../../../images/team/Operations/Andrew K.png";
-import Rebecca from "../../../images/team/Operations/Becca C.png";
 import IanP from "../../../images/team/Operations/Ian Porta2.png";
 import JordanW from "../../../images/team/Operations/Jordan W2.png";
 import MalloryF from "../../../images/team/Operations/Mallory F2.png";
@@ -301,15 +300,6 @@ export const People = {
     vacation: "",
     why: "",
     image: Brittney,
-  },
-  Rebecca: {
-    name: "Rebecca Coleman",
-    title: "Senior Purchasing Coordinator",
-    bio: "",
-    movie: "",
-    vacation: "",
-    why: "",
-    image: Rebecca,
   },
   BrittneyH: {
     name: "Brittney Hartfield",

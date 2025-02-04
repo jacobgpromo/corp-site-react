@@ -42,11 +42,6 @@ class Embrodiery extends Component {
             title={People.Gabriel.title}
           />
           <Employee
-            image={People.Edgar.image}
-            name={People.Edgar.name}
-            title={People.Edgar.title}
-          />
-          <Employee
             image={People.Esmeralda.image}
             name={People.Esmeralda.name}
             title={People.Esmeralda.title}
@@ -151,11 +146,6 @@ class Embrodiery extends Component {
             image={People.OlgaR.image}
             name={People.OlgaR.name}
             title={People.OlgaR.title}
-          />
-          <Employee
-            image={People.OscarB.image}
-            name={People.OscarB.name}
-            title={People.OscarB.title}
           />
           <Employee
             image={People.SontinaL.image}

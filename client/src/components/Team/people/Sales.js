@@ -80,6 +80,7 @@ import Wendy from "../../../images/team/Sales/Wendy C.png";
 import Annabelle from "../../../images/team/Operations/Annabelle.png";
 import CourtneyO from "../../../images/team/Sales/Courtney-O'Hara.png";
 import AudreyM from "../../../images/team/Sales/Audrey-MacVicar.png";
+import Rebecca from "../../../images/team/Operations/Becca C.png";
 
 //These are the default photos to be used when photo no avail.
 import Male1 from "../../../images/team/Male1.jpg";
@@ -891,5 +892,14 @@ export const People = {
     vacation: "",
     why: "",
     image: CourtneyO,
+  },
+  Rebecca: {
+    name: "Rebecca Coleman",
+    title: "Account Coordinator",
+    bio: "",
+    movie: "",
+    vacation: "",
+    why: "",
+    image: Rebecca,
   },
 };

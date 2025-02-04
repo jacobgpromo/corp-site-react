@@ -72,11 +72,6 @@ class Warehouse extends Component {
             title={People.Jacob.title}
           />
           <Employee
-            image={People.Joesph.image}
-            name={People.Joesph.name}
-            title={People.Joesph.title}
-          />
-          <Employee
             image={People.MattC.image}
             name={People.MattC.name}
             title={People.MattC.title}
@@ -203,11 +198,6 @@ class Warehouse extends Component {
             image={People.Iziss.image}
             name={People.Iziss.name}
             title={People.Iziss.title}
-          />
-          <Employee
-            image={People.IvonR.image}
-            name={People.IvonR.name}
-            title={People.IvonR.title}
           />
           <Employee
             image={People.JuanaC.image}

@@ -55,11 +55,6 @@ class DevIT extends Component {
             title={People.Melissa.title}
           />
           <Employee
-            image={People.Josella.image}
-            name={People.Josella.name}
-            title={People.Josella.title}
-          />
-          <Employee
             image={People.Kinza.image}
             name={People.Kinza.name}
             title={People.Kinza.title}
