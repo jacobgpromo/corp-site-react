@@ -100,7 +100,7 @@ export const People = {
   },
   Angela: {
     name: "Angela Shimenetto",
-    title: "Account Manager",
+    title: "Sr. Account Executive",
     bio: "",
     movie: "",
     vacation: "",
@@ -109,7 +109,7 @@ export const People = {
   },
   Beth: {
     name: "Beth Becker",
-    title: "Account Coordinator",
+    title: "Sr. Account Executive",
     bio: "",
     movie: "",
     vacation: "",
@@ -118,7 +118,7 @@ export const People = {
   },
   Danny: {
     name: "Danny Hazan",
-    title: "Account Coordinator",
+    title: "Sr. Account Executive",
     bio: "Danny joined Overture after 8 years as a journalist covering sports and music. He resides in Evanston.",
     movie: "Fargo",
     vacation: "Jackson Hole",
@@ -145,7 +145,7 @@ export const People = {
   },
   Karyn: {
     name: "Karyn Augelli",
-    title: "Account Coordinator",
+    title: "Sr. Account Executive",
     bio: "",
     movie: "",
     vacation: "",
@@ -163,7 +163,7 @@ export const People = {
   },
   Kat: {
     name: "Kat Heer",
-    title: "Account Coordinator",
+    title: "Sr. Account Executive",
     bio: "",
     movie: "",
     vacation: "",
@@ -190,7 +190,7 @@ export const People = {
   },
   Brittani: {
     name: "Brittani Michela",
-    title: "Sr. Account Manager",
+    title: "Sr. Account Executive",
     bio: "",
     movie: "",
     vacation: "",
@@ -281,7 +281,7 @@ export const People = {
   },
   Michelle: {
     name: "Michelle Inman",
-    title: "Sales Account Admin",
+    title: "Sr. Account Executive",
     bio: "",
     movie: "",
     vacation: "",
@@ -317,7 +317,7 @@ export const People = {
   },
   Kaley: {
     name: "Kaley Sullivan",
-    title: "Account Coordinator ",
+    title: "Sr. Account Executive",
     bio: "",
     movie: "",
     vacation: "",
@@ -479,8 +479,8 @@ export const People = {
     image: Melissa,
   },
   Mallory: {
-    name: "Mallory Geniesse",
-    title: "Account Manager",
+    name: "Mallory Bickers",
+    title: "Account Executive",
     bio: "",
     movie: "",
     vacation: "",
@@ -553,7 +553,7 @@ export const People = {
   },
   Erin: {
     name: "Erin Boudreau",
-    title: "Sales Account Admin",
+    title: "Account Coordinator",
     bio: "",
     movie: "",
     vacation: "",
@@ -571,7 +571,7 @@ export const People = {
   },
   MichelleF: {
     name: "Michelle Fisher",
-    title: "Account Manager",
+    title: "Sr. Account Executive",
     bio: "",
     movie: "",
     vacation: "",
@@ -598,7 +598,7 @@ export const People = {
   },
   Jamie: {
     name: "Jamie Billings",
-    title: "Sales Account Admin",
+    title: "Account Coordinator",
     bio: "",
     movie: "",
     vacation: "",
@@ -616,7 +616,7 @@ export const People = {
   },
   Sean: {
     name: "Sean Stevens",
-    title: "Account Manager",
+    title: "Sr. Account Executive",
     bio: "",
     movie: "",
     vacation: "",
@@ -643,7 +643,7 @@ export const People = {
   },
   Carolyn: {
     name: "Carolyn Topps",
-    title: "Sales Account Admin",
+    title: "Account Executive",
     bio: "",
     movie: "",
     vacation: "",
@@ -661,7 +661,7 @@ export const People = {
   },
   Jocelyn: {
     name: "Jocelyn Cash",
-    title: "Sales Account Admin",
+    title: "Account Coordinator",
     bio: "",
     movie: "",
     vacation: "",
@@ -670,7 +670,7 @@ export const People = {
   },
   Melanie: {
     name: "Melanie Vess",
-    title: "Sales Account Admin",
+    title: "Account Coordinator",
     bio: "",
     movie: "",
     vacation: "",
@@ -724,7 +724,7 @@ export const People = {
   },
   Cassie: {
     name: "Cassie Sackett",
-    title: "Sr. Account Manager",
+    title: "Sr. Account Executive",
     bio: "",
     movie: "",
     vacation: "",
@@ -895,7 +895,7 @@ export const People = {
   },
   Rebecca: {
     name: "Rebecca Coleman",
-    title: "Account Coordinator",
+    title: "Account Manager",
     bio: "",
     movie: "",
     vacation: "",

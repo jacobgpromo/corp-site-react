@@ -157,6 +157,11 @@ class Operations extends Component {
             title={People.MalloryF.title}
           />
           <Employee
+            image={People.Julyne.image}
+            name={People.Julyne.name}
+            title={People.Julyne.title}
+          />
+          <Employee
             image={People.Grace.image}
             name={People.Grace.name}
             title={People.Grace.title}
@@ -252,9 +257,7 @@ class Operations extends Component {
             name={People.Boitumelo.name}
             title={People.Boitumelo.title}
           />
-          <NotPictured name={People.Chance.name} title={People.Chance.title} />
           <NotPictured name={People.Chloe.name} title={People.Chloe.title} />
-          <NotPictured name={People.DianaM.name} title={People.DianaM.title} />
           <NotPictured
             name={People.MatthewS.name}
             title={People.MatthewS.title}

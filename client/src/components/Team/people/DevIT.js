@@ -54,8 +54,8 @@ export const People = {
     image: Kevin,
   },
   Jacob: {
-    name: "Jacob",
-    title: "Web Developer",
+    name: "Jacob Goodall",
+    title: "Junior Web Developer",
     bio: "",
     movie: "",
     vacation: "",

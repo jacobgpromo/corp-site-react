@@ -247,7 +247,7 @@ export const People = {
   },
   Dean: {
     name: "Dean Schwartz",
-    title: "Sr. Account Manager",
+    title: "Sales",
     bio: "When Dean was in college at the University of Iowa, he took an intern position at a promotional marketing company and knew that was the field for him. He strives to be much more than just a salesperson and pushes to grow his customer’s brand through marketing. With hard work, creative ideas, reliability, and attention to detail, he has gone from being an intern at a small company to a successful Sr. Account Manager at Overture.",
     movie:
       'I will change this question slightly to ‘Desert Island’ movie. For re-watchability, I have to go with Superbad. It just gets me every time and I can’t help but crack up throughout the entire movie. Brilliant from start to finish. "I am McLovin."',
@@ -258,7 +258,7 @@ export const People = {
   },
   Katelynn: {
     name: "Katelynn Fioretto",
-    title: "Sr. Account Manager",
+    title: "Sales",
     bio: "Katelynn is best known for her no-nonsense attitude. With plenty of satisfied customers, Katelynn might be small in stature, but don’t underestimate her; she knows what she’s doing and she does it well. She’s a multi-tasker who is passionate about building strong, collaborative partnerships. When she’s not at work, you can find her working out and spending time with her husband, JJ, and two kids, Charlee and Grayson.",
     movie:
       "I don’t think I have a favorite- but I will watch over and over 'How to Loose a Guy in 10 Days' and ‘The Goonies.’",
@@ -268,7 +268,7 @@ export const People = {
   },
   Kimberline: {
     name: "Kimberlin Sawyer",
-    title: "Account Director",
+    title: "Sales",
     bio: "The excitement of our industry and the fast paced, positive team atmosphere at Overture is what gets Kimberlin up in the morning! Her passion is building solid, long-lasting relationships with both clients and internal teammates. Her main focus is always providing extraordinary service to her clients and building and mentoring her strong, successful team. Kimberlin was fortunate enough to fall in love with the promotional/marketing industry many moons ago and brings a wealth of knowledge and experience to Overture. Kimberlin shares her life with her amazing husband, Brian, and their five sons and can usually be spotted hiking/walking with her dogs, attending concerts, or travelling to see her boys!",
     movie: "How to Lose a Guy in 10 Days and Sleeping with the Enemy",
     vacation: "Kimo loves Hawaii!",
@@ -277,7 +277,7 @@ export const People = {
   },
   Eric: {
     name: "Eric Yaggi",
-    title: "Sr. Account Manager",
+    title: "Sales",
     bio: "Eric brings 10 years of experience in the promotional marketing industry to Overture. With a background in warehouse management and operations, he understands the teamwork required to make any project a winner. Strong communication and meaningful relationships are the foundation of Eric’s approach to creating successful programs for his clients. Outside the office, Eric enjoys spending time with his young son and wife, or on the golf course.",
     movie: "Caddyshack or The Big Lebowski",
     vacation: "Tuscany, Italy",

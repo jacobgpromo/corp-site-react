@@ -13,7 +13,6 @@ import Debra from "../../../images/team/Embrodiery/DebraD.jpg";
 import MiguelG from "../../../images/team/Embrodiery/MiguelG.jpg";
 import Mayra from "../../../images/team/Embrodiery/MayraC.jpg";
 import Alejandra from "../../../images/team/Embrodiery/Alejandra_Ayon.jpg";
-import Julyne from "../../../images/team/Embrodiery/Julyne_Ayala.jpg";
 import Martha from "../../../images/team/Embrodiery/Martha_Esparza.jpg";
 import Citlali from "../../../images/team/Embrodiery/Citlali_Fuentes.jpg";
 import Leomar from "../../../images/team/Embrodiery/Leomar_Santos.jpg";
@@ -51,7 +50,7 @@ export const People = {
   },
   Gabriel: {
     name: "Gabriel Ramirez",
-    title: "Screen Print Floor Manager",
+    title: "Screen Print",
     bio: "",
     movie: "",
     vacation: "",
@@ -177,7 +176,7 @@ export const People = {
   },
   Mayra: {
     name: "Mayra Cruz",
-    title: "Production Receiving",
+    title: "Production Admin Asst",
     bio: "",
     movie: "",
     vacation: "",
@@ -193,15 +192,7 @@ export const People = {
     why: "",
     image: Inocente,
   },
-  Julyne: {
-    name: "Julyne Ayala",
-    title: "Production Admin Assistant",
-    bio: "",
-    movie: "",
-    vacation: "",
-    why: "",
-    image: Julyne,
-  },
+
   Martha: {
     name: "Martha Esparza",
     title: "Embroidery Operator",

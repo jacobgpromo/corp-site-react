@@ -59,6 +59,7 @@ import NicoleS from "../../../images/team/Sales/Nicole.jpg";
 import Giovanni from "../../../images/team/Operations/Giovanni-Falco.png";
 import MaribelB from "../../../images/team/Operations/Maribel Banda.png";
 import StephanieV from "../../../images/team/Operations/Stephanie-Vega.png";
+import Julyne from "../../../images/team/Embrodiery/Julyne_Ayala.jpg";
 
 //These are the default photos to be used when photo no avail.
 import Male1 from "../../../images/team/Male1.jpg";
@@ -150,7 +151,7 @@ export const People = {
   },
   Trina: {
     name: "Trina King",
-    title: "Fulfillment Manager",
+    title: "Project Manager",
     bio: "",
     movie: "",
     vacation: "",
@@ -249,7 +250,7 @@ export const People = {
   },
   Jeff: {
     name: "Jeff Norlin",
-    title: "Special Projects Operations Lead",
+    title: "Program Project Coordinator",
     bio: "",
     movie: "",
     vacation: "",
@@ -267,7 +268,7 @@ export const People = {
   },
   AnnaN: {
     name: "Anna Nava",
-    title: "HR Business Partner",
+    title: "HR Manager",
     bio: "",
     movie: "",
     vacation: "",
@@ -303,7 +304,7 @@ export const People = {
   },
   BrittneyH: {
     name: "Brittney Hartfield",
-    title: "Purchasing Coordinator",
+    title: "Purchasing Supervisor",
     bio: "",
     movie: "",
     vacation: "",
@@ -457,7 +458,7 @@ export const People = {
   },
   MichelleB: {
     name: "Michelle Bridges",
-    title: "Customer Care Supervisor",
+    title: "Customer Care Manager",
     bio: "",
     movie: "",
     vacation: "",
@@ -466,7 +467,7 @@ export const People = {
   },
   ThomasJ: {
     name: "Thomas Johnson",
-    title: "Care Coordinator",
+    title: "Customer Care Coordinator",
     bio: "",
     movie: "",
     vacation: "",
@@ -475,7 +476,7 @@ export const People = {
   },
   Tye: {
     name: "Tye Scott",
-    title: "Customer Care Temp",
+    title: "Customer Care Shipping Coordinator,",
     bio: "",
     movie: "",
     vacation: "",
@@ -547,7 +548,7 @@ export const People = {
   },
   MalloryF: {
     name: "Mallory Fracek",
-    title: "Purchasing Assistant",
+    title: "Purchasing Coordinator",
     bio: "",
     movie: "",
     vacation: "",
@@ -565,7 +566,7 @@ export const People = {
   },
   DianaM: {
     name: "Diana Gallaga-Mendoza",
-    title: "Shipping Coordinator",
+    title: "Customer Care Shipping Coordinator",
     bio: "",
     movie: "",
     vacation: "",
@@ -699,5 +700,14 @@ export const People = {
     vacation: "",
     why: "",
     image: Female1,
+  },
+  Julyne: {
+    name: "Julyne Ayala",
+    title: "Purchasing Assistant",
+    bio: "",
+    movie: "",
+    vacation: "",
+    why: "",
+    image: Julyne,
   },
 };
