@@ -60,6 +60,7 @@ import Giovanni from "../../../images/team/Operations/Giovanni-Falco.png";
 import MaribelB from "../../../images/team/Operations/Maribel Banda.png";
 import StephanieV from "../../../images/team/Operations/Stephanie-Vega.png";
 import Julyne from "../../../images/team/Embrodiery/Julyne_Ayala.jpg";
+import StephanieD from "../../../images/team/Operations/StephanieD.png";
 
 //These are the default photos to be used when photo no avail.
 import Male1 from "../../../images/team/Male1.jpg";
@@ -692,14 +693,14 @@ export const People = {
     why: "",
     image: Female1,
   },
-  Stephanie: {
+  StephanieD: {
     name: "Stephanie Dawe",
     title: "Recruiter",
     bio: "",
     movie: "",
     vacation: "",
     why: "",
-    image: Female1,
+    image: StephanieD,
   },
   Julyne: {
     name: "Julyne Ayala",
