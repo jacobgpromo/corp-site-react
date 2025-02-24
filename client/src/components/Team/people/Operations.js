@@ -711,4 +711,15 @@ export const People = {
     why: "",
     image: Julyne,
   },
+  Elisa: {
+    name: "Elisa Ruiz",
+    title: "Customer Care Coordinator",
+    bio: "",
+    movie: "",
+    vacation: "",
+    why: "",
+    image: Female1,
+  },
 };
+
+//Elisa Ruiz

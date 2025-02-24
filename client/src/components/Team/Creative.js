@@ -57,11 +57,6 @@ class Creative extends Component {
             title={People.Christopher.title}
           />
           <Employee
-            image={People.Evie.image}
-            name={People.Evie.name}
-            title={People.Evie.title}
-          />
-          <Employee
             image={People.Brandon.image}
             name={People.Brandon.name}
             title={People.Brandon.title}

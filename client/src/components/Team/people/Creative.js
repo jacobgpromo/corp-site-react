@@ -127,15 +127,6 @@ export const People = {
     why: "",
     image: Brandon,
   },
-  Evie: {
-    name: "Evie Daniels",
-    title: "Graphic Designer",
-    bio: "",
-    movie: "",
-    vacation: "",
-    why: "",
-    image: Evie,
-  },
   MeganKuerschner: {
     name: "Megan Kuerschner",
     title: "Graphic Designer",
