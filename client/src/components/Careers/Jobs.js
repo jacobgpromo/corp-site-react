@@ -40,9 +40,9 @@ class Jobs extends Component {
               <a
                 className="apply-link"
                 target="blank"
-                href="https://overturepromotions.applytojob.com/apply/DKeZBtnWnW/Overture-Promotions-Pipeline"
+                href="https://overturepromotions.applytojob.com/apply/Q37prstF7c/Overture-Promotions-Pipeline-Application"
               >
-                Overture Promotions - Pipeline
+                Overture Promotions - Pipeline Application
               </a>
             </h3>
           </div>
@@ -54,6 +54,50 @@ class Jobs extends Component {
                 href="https://overturepromotions.applytojob.com/apply/fR57a9AFdI/Purchasing-Assistant"
               >
                 Purchasing Assistant
+              </a>
+            </h3>
+          </div>
+          <div style={{ borderTop: "1px solid #d8dadc" }}>
+            <h3>
+              <a
+                className="apply-link"
+                target="blank"
+                href="https://overturepromotions.applytojob.com/apply/FTFLMo30A8/Account-Executive"
+              >
+                Account Executive
+              </a>
+            </h3>
+          </div>
+          <div style={{ borderTop: "1px solid #d8dadc" }}>
+            <h3>
+              <a
+                className="apply-link"
+                target="blank"
+                href="https://overturepromotions.applytojob.com/apply/vbMwiQsLv5/Customer-Care-Administrator"
+              >
+                Customer Care Administrator
+              </a>
+            </h3>
+          </div>
+          <div style={{ borderTop: "1px solid #d8dadc" }}>
+            <h3>
+              <a
+                className="apply-link"
+                target="blank"
+                href="https://overturepromotions.applytojob.com/apply/EvTQmiEExR/Special-Projects-Project-Admin"
+              >
+                Special Projects Project Admin
+              </a>
+            </h3>
+          </div>
+          <div style={{ borderTop: "1px solid #d8dadc" }}>
+            <h3>
+              <a
+                className="apply-link"
+                target="blank"
+                href="https://overturepromotions.applytojob.com/apply/pQn9aBEVjI/Shipping-Coordinator"
+              >
+                Shipping Coordinator
               </a>
             </h3>
           </div>
