@@ -720,6 +720,15 @@ export const People = {
     why: "",
     image: Female1,
   },
+  ClaudiaR: {
+    name: "Claudia Rivas",
+    title: "Purchasing Assistant",
+    bio: "",
+    movie: "",
+    vacation: "",
+    why: "",
+    image: Female1,
+  },
 };
 
 //Elisa Ruiz
