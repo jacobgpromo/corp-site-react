@@ -9,6 +9,15 @@ class Header extends Component {
     hamburger: false,
   };
 
+  componentDidMount() {
+    const script = document.createElement("script");
+
+    script.src = "https://cdn.userway.org/widget.js";
+    script.async = true;
+
+    document.body.appendChild(script);
+  }
+
   handleClick = (boolean) => {
     this.setState({ hamburger: boolean });
   };
