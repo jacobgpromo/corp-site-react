@@ -4,7 +4,7 @@ import Joe from "../../../images/team/ExpertsPhotos/Joe.jpg";
 import Tej from "../../../images/team/ExpertsPhotos/Tej.jpg";
 import Mike from "../../../images/team/ExpertsPhotos/Mike.jpg";
 import Brian from "../../../images/team/ExpertsPhotos/Brian.jpg";
-import Christina from "../../../images/team/ExpertsPhotos/Christina Nelson.png";
+import Christina from "../../../images/team/ExpertsPhotos/Christina N.png";
 import Aimee from "../../../images/team/ExpertsPhotos/Aimee.jpg";
 import Ben from "../../../images/team/ExpertsPhotos/Ben.jpg";
 import Bobby from "../../../images/team/ExpertsPhotos/Bobby.jpg";

@@ -163,6 +163,11 @@ class Operations extends Component {
             title={People.Julyne.title}
           />
           <Employee
+            image={People.ClaudiaR.image}
+            name={People.ClaudiaR.name}
+            title={People.ClaudiaR.title}
+          />
+          <Employee
             image={People.Grace.image}
             name={People.Grace.name}
             title={People.Grace.title}
@@ -242,6 +247,11 @@ class Operations extends Component {
             name={People.Tye.name}
             title={People.Tye.title}
           />
+          <Employee
+            image={People.Elisa.image}
+            name={People.Elisa.name}
+            title={People.Elisa.title}
+          />
         </div>
         <Element id="creative-orange">Not Pictured</Element>
         <div className="row" style={{ marginBottom: "50px" }}>
@@ -253,12 +263,8 @@ class Operations extends Component {
             name={People.Boitumelo.name}
             title={People.Boitumelo.title}
           />
-          <NotPictured
-            name={People.ClaudiaR.name}
-            title={People.ClaudiaR.title}
-          />
+
           <NotPictured name={People.Chloe.name} title={People.Chloe.title} />
-          <NotPictured name={People.Elisa.name} title={People.Elisa.title} />
           <NotPictured
             name={People.MatthewS.name}
             title={People.MatthewS.title}

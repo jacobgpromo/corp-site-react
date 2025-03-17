@@ -54,13 +54,15 @@ import JayliaS from "../../../images/team/Operations/Jaylia Swift.png";
 import Makalah from "../../../images/team/Operations/Makalah Morrissette.png";
 import JustineR from "../../../images/team/Operations/Justine-Rivlin .png";
 import Kiernan from "../../../images/team/Operations/Kiernon Scrima.png";
-import Robb from "../../../images/team/Operations/Robb Olson.png";
+import Robb from "../../../images/team/Operations/Robb O.png";
 import NicoleS from "../../../images/team/Sales/Nicole.jpg";
-import Giovanni from "../../../images/team/Operations/Giovanni-Falco.png";
+import Giovanni from "../../../images/team/Operations/Gio F.png";
 import MaribelB from "../../../images/team/Operations/Maribel Banda.png";
-import StephanieV from "../../../images/team/Operations/Stephanie-Vega.png";
+import StephanieV from "../../../images/team/Operations/Steph V.png";
 import Julyne from "../../../images/team/Embrodiery/Julyne_Ayala.jpg";
-import StephanieD from "../../../images/team/Operations/StephanieD.png";
+import StephanieD from "../../../images/team/Operations/Stephanie D.png";
+import ClaudiaR from "../../../images/team/Operations/Claudia R.png";
+import Elisa from "../../../images/team/Operations/Elisa R.png";
 
 //These are the default photos to be used when photo no avail.
 import Male1 from "../../../images/team/Male1.jpg";
@@ -718,7 +720,7 @@ export const People = {
     movie: "",
     vacation: "",
     why: "",
-    image: Female1,
+    image: Elisa,
   },
   ClaudiaR: {
     name: "Claudia Rivas",
@@ -727,7 +729,7 @@ export const People = {
     movie: "",
     vacation: "",
     why: "",
-    image: Female1,
+    image: ClaudiaR,
   },
 };
 

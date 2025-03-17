@@ -32,7 +32,7 @@ import Baltzar from "../../../images/team/Embrodiery/Baltazar Alvarez Vallejo.pn
 import Lorena from "../../../images/team/Embrodiery/Lorena-Lara.png";
 import Elvia from "../../../images/team/Embrodiery/Elvia Naves Morales.png";
 import William from "../../../images/team/Embrodiery/William Raul Quinde Bermeo.png";
-import MirnaN from "../../../images/team/Embrodiery/Mirna Naves.png";
+import MirnaN from "../../../images/team/Embrodiery/Mirna.png";
 
 import Male1 from "../../../images/team/Male1.jpg";
 import Female1 from "../../../images/team/Female1.jpg";
