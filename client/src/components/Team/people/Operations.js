@@ -731,6 +731,15 @@ export const People = {
     why: "",
     image: ClaudiaR,
   },
+  Ramiro: {
+    name: "Ramiro Fuentes",
+    title: "Customer Care",
+    bio: "",
+    movie: "",
+    vacation: "",
+    why: "",
+    image: Female1,
+  },
 };
 
 //Elisa Ruiz
