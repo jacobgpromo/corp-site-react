@@ -355,15 +355,6 @@ export const People = {
     why: "",
     image: Elvia,
   },
-  Lorena: {
-    name: "Lorena Lara",
-    title: "Production Receiving Associate",
-    bio: "",
-    movie: "",
-    vacation: "",
-    why: "",
-    image: Lorena,
-  },
   MirnaN: {
     name: "Mirna Naves",
     title: "Screen Print Associate",
