@@ -740,6 +740,24 @@ export const People = {
     why: "",
     image: Female1,
   },
+  ElisaG: {
+    name: "Elisa Gano",
+    title: "Customer Care Admin",
+    bio: "",
+    movie: "",
+    vacation: "",
+    why: "",
+    image: Female1,
+  },
+  Byron: {
+    name: "Byron Calvo",
+    title: "Special Projects Admin",
+    bio: "",
+    movie: "",
+    vacation: "",
+    why: "",
+    image: Female1,
+  },
 };
 
 //Elisa Ruiz
