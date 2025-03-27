@@ -75,6 +75,11 @@ class DevIT extends Component {
             title={People.Dale.title}
           />
           <Employee
+            image={People.Jacob.image}
+            name={People.Jacob.name}
+            title={People.Jacob.title}
+          />
+          <Employee
             image={People.Sam.image}
             name={People.Sam.name}
             title={People.Sam.title}
@@ -88,11 +93,6 @@ class DevIT extends Component {
             image={People.KevinS.image}
             name={People.KevinS.name}
             title={People.KevinS.title}
-          />
-          <Employee
-            image={People.Jacob.image}
-            name={People.Jacob.name}
-            title={People.Jacob.title}
           />
           <Employee
             image={People.Briana.image}
