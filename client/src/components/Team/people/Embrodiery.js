@@ -364,4 +364,13 @@ export const People = {
     why: "",
     image: MirnaN,
   },
+  AnthonyM: {
+    name: "Anthony Magallanes",
+    title: "Screen Print Operator",
+    bio: "",
+    movie: "",
+    vacation: "",
+    why: "",
+    image: Male1,
+  },
 };
