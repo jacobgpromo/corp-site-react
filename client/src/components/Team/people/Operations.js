@@ -63,6 +63,7 @@ import Julyne from "../../../images/team/Embrodiery/Julyne_Ayala.jpg";
 import StephanieD from "../../../images/team/Operations/Stephanie D.png";
 import ClaudiaR from "../../../images/team/Operations/Claudia R.png";
 import Elisa from "../../../images/team/Operations/Elisa R.png";
+import Byron from "../../../images/team/Operations/BryonC.jpg";
 
 //These are the default photos to be used when photo no avail.
 import Male1 from "../../../images/team/Male1.jpg";
@@ -756,7 +757,7 @@ export const People = {
     movie: "",
     vacation: "",
     why: "",
-    image: Female1,
+    image: Byron,
   },
 };
 
