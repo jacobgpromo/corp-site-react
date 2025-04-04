@@ -902,4 +902,22 @@ export const People = {
     why: "",
     image: Rebecca,
   },
+  Rebekah: {
+    name: "Rebekah Bryan",
+    title: "Account Executive",
+    bio: "",
+    movie: "",
+    vacation: "",
+    why: "",
+    image: Female1,
+  },
+  Nathan: {
+    name: "Nathan Rodriguez",
+    title: "BDM",
+    bio: "",
+    movie: "",
+    vacation: "",
+    why: "",
+    image: Male1,
+  },
 };
