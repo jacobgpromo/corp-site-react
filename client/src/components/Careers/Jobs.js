@@ -51,28 +51,6 @@ class Jobs extends Component {
               <a
                 className="apply-link"
                 target="blank"
-                href="https://overturepromotions.applytojob.com/apply/FTFLMo30A8/Account-Executive"
-              >
-                Account Executive
-              </a>
-            </h3>
-          </div>
-          <div style={{ borderTop: "1px solid #d8dadc" }}>
-            <h3>
-              <a
-                className="apply-link"
-                target="blank"
-                href="https://overturepromotions.applytojob.com/apply/DP7sJTdWlB/New-Business-Development-Manager"
-              >
-                New Business Development Manager
-              </a>
-            </h3>
-          </div>
-          <div style={{ borderTop: "1px solid #d8dadc" }}>
-            <h3>
-              <a
-                className="apply-link"
-                target="blank"
                 href="https://overturepromotions.applytojob.com/apply/RwR4K4CjfS/MS365-Administrator"
               >
                 MS365 Administrator
