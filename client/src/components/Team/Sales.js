@@ -221,6 +221,11 @@ class Sales extends Component {
             title={People.Michelle.title}
           />
           <Employee
+            image={People.Nathan.image}
+            name={People.Nathan.name}
+            title={People.Nathan.title}
+          />
+          <Employee
             image={People.Rebecca.image}
             name={People.Rebecca.name}
             title={People.Rebecca.title}
@@ -303,7 +308,6 @@ class Sales extends Component {
         </div>
         <Element id="creative-orange">Not Pictured</Element>
         <div className="row" style={{ marginBottom: "50px" }}>
-          <NotPictured name={People.Nathan.name} title={People.Nathan.title} />
           <NotPictured
             name={People.Rebekah.name}
             title={People.Rebekah.title}
