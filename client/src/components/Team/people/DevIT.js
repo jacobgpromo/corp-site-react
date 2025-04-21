@@ -153,4 +153,13 @@ export const People = {
     why: "",
     image: Dale,
   },
+  Joseph: {
+    name: "Joseph Schuster",
+    title: "MS365 Administrator",
+    bio: "",
+    movie: "",
+    vacation: "",
+    why: "",
+    image: Male1,
+  },
 };
