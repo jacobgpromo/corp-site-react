@@ -34,6 +34,31 @@ class Jobs extends Component {
                 NetSuite Administrator
               </a>
             </h3>
+            <p>Compensation: 100k-120k annually</p>
+          </div>
+          <div style={{ borderTop: "1px solid #d8dadc" }}>
+            <h3>
+              <a
+                className="apply-link"
+                target="blank"
+                href="https://overturepromotions.applytojob.com/apply/C6Iue4lqaM/Staff-Accountant"
+              >
+                Staff Accountant
+              </a>
+            </h3>
+            <p>Compensation: 60k-75k annually</p>
+          </div>
+          <div style={{ borderTop: "1px solid #d8dadc" }}>
+            <h3>
+              <a
+                className="apply-link"
+                target="blank"
+                href="https://overturepromotions.applytojob.com/apply/h0Xe1FhAnc/Account-Manager"
+              >
+                Account Manager
+              </a>
+            </h3>
+            <p>Compensation: 45k-55k annually</p>
           </div>
           <div style={{ borderTop: "1px solid #d8dadc" }}>
             <h3>
@@ -43,17 +68,6 @@ class Jobs extends Component {
                 href="https://overturepromotions.applytojob.com/apply/Q37prstF7c/Overture-Promotions-Pipeline-Application"
               >
                 Overture Promotions - Pipeline Application
-              </a>
-            </h3>
-          </div>
-          <div style={{ borderTop: "1px solid #d8dadc" }}>
-            <h3>
-              <a
-                className="apply-link"
-                target="blank"
-                href="https://overturepromotions.applytojob.com/apply/RwR4K4CjfS/MS365-Administrator"
-              >
-                MS365 Administrator
               </a>
             </h3>
           </div>
