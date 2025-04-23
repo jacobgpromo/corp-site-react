@@ -752,15 +752,6 @@ export const People = {
     why: "",
     image: Male1,
   },
-  AnthonyV: {
-    name: "Anthony Vara",
-    title: "Inventory Associate",
-    bio: "",
-    movie: "",
-    vacation: "",
-    why: "",
-    image: AnthonyV,
-  },
   LuisG: {
     name: "Luis Garcia",
     title: "Special Projects Associate",
