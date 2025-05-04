@@ -11,7 +11,8 @@ import Sam from "../../../images/team/Operations/Sam.jpg";
 import Brian from "../../../images/team/Operations/Brian Rahn.png";
 import KevinS from "../../../images/team/Operations/KevinS.jpg";
 import Kinza from "../../../images/team/Operations/Kinza H.png";
-import Dale from "../../../images/team/Operations/Dale-Burmeister.png";
+import Dale from "../../../images/team/Operations/Dale B.png";
+import Mark from "../../../images/team/Operations/Mark B.png";
 
 import Female1 from "../../../images/team/Female1.jpg";
 import Male1 from "../../../images/team/Male1.jpg";
@@ -114,7 +115,7 @@ export const People = {
     movie: "",
     vacation: "",
     why: "",
-    image: Male1,
+    image: Mark,
   },
   Brian: {
     name: "Brian Rahn",

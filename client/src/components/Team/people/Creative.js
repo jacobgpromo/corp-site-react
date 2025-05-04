@@ -5,7 +5,7 @@ import Enzo from "../../../images/team/Creative/Enzo.jpg";
 import Jeri from "../../../images/team/Creative/Jeri.jpg";
 import MeganK from "../../../images/team/Sales/MeganKragenbrink.jpg";
 import Aaron from "../../../images/team/Creative/AaronB.jpg";
-import Samantha from "../../../images/team/Creative/Samantha-Logan-square.jpg";
+import Samantha from "../../../images/team/Creative/Samantha L.png";
 import Christopher from "../../../images/team/Creative/Chris Westby.jpg";
 import Evie from "../../../images/team/Creative/Evie Daniels.png";
 import Victoria from "../../../images/team/Creative/Tori updated image.png";

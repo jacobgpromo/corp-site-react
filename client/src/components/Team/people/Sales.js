@@ -9,7 +9,7 @@ import Katie from "../../../images/team/Sales/Katie.jpg";
 import Kat from "../../../images/team/Sales/Kat.jpg";
 import Lindsay from "../../../images/team/Sales/Lindsay.jpg";
 import Lisa from "../../../images/team/Sales/Lisa.jpg";
-import Brittani from "../../../images/team/Sales/Brittani Michela.png";
+import Brittani from "../../../images/team/Sales/BrittaniM.png";
 import Nicole from "../../../images/team/Sales/Nicole.jpg";
 import Renee from "../../../images/team/Sales/Renee.jpg";
 import Sara from "../../../images/team/Sales/Sara.jpg";
@@ -650,15 +650,6 @@ export const People = {
     vacation: "",
     why: "",
     image: Carolyn,
-  },
-  Lynette: {
-    name: "Lynette Stwertnik",
-    title: "Sr Account Manager",
-    bio: "",
-    movie: "",
-    vacation: "",
-    why: "",
-    image: Lynette,
   },
   Jocelyn: {
     name: "Jocelyn Cash",

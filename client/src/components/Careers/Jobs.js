@@ -60,17 +60,6 @@ class Jobs extends Component {
             </h3>
             <p>Compensation: 45k-55k annually</p>
           </div>
-          <div style={{ borderTop: "1px solid #d8dadc" }}>
-            <h3>
-              <a
-                className="apply-link"
-                target="blank"
-                href="https://overturepromotions.applytojob.com/apply/Q37prstF7c/Overture-Promotions-Pipeline-Application"
-              >
-                Overture Promotions - Pipeline Application
-              </a>
-            </h3>
-          </div>
 
           {/* <div style={{borderTop: '1px solid #d8dadc'}}>
                         <h3>Web Developer </h3>

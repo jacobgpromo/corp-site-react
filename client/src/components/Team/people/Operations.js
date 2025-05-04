@@ -64,6 +64,8 @@ import StephanieD from "../../../images/team/Operations/Stephanie D.png";
 import ClaudiaR from "../../../images/team/Operations/Claudia R.png";
 import Elisa from "../../../images/team/Operations/Elisa R.png";
 import Byron from "../../../images/team/Operations/BryonC.jpg";
+import ElisaG from "../../../images/team/Operations/Elisa G.png";
+import Ramiro from "../../../images/team/Operations/Ramiro F.png";
 
 //These are the default photos to be used when photo no avail.
 import Male1 from "../../../images/team/Male1.jpg";
@@ -739,7 +741,7 @@ export const People = {
     movie: "",
     vacation: "",
     why: "",
-    image: Female1,
+    image: Ramiro,
   },
   ElisaG: {
     name: "Elisa Gano",
@@ -748,7 +750,7 @@ export const People = {
     movie: "",
     vacation: "",
     why: "",
-    image: Female1,
+    image: ElisaG,
   },
   Byron: {
     name: "Byron Calvo",
