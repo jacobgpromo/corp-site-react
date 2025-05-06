@@ -36,7 +36,7 @@ class Jobs extends Component {
             </h3>
             <p>Compensation: 100k-120k annually</p>
           </div>
-          <div style={{ borderTop: "1px solid #d8dadc" }}>
+          {/* <div style={{ borderTop: "1px solid #d8dadc" }}>
             <h3>
               <a
                 className="apply-link"
@@ -47,6 +47,18 @@ class Jobs extends Component {
               </a>
             </h3>
             <p>Compensation: 45k-55k annually</p>
+          </div> */}
+          <div style={{ borderTop: "1px solid #d8dadc" }}>
+            <h3>
+              <a
+                className="apply-link"
+                target="blank"
+                href="https://overturepromotions.applytojob.com/apply/YFe4i0HOQF/Tax-And-Accounting-Clerk"
+              >
+                Tax and Accounting Clerk
+              </a>
+            </h3>
+            <p>Compensation: $18-$20 hourly</p>
           </div>
 
           {/* <div style={{borderTop: '1px solid #d8dadc'}}>
