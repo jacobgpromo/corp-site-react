@@ -36,7 +36,7 @@ class Jobs extends Component {
             </h3>
             <p>Compensation: 100k-120k annually</p>
           </div>
-          {/* <div style={{ borderTop: "1px solid #d8dadc" }}>
+          <div style={{ borderTop: "1px solid #d8dadc" }}>
             <h3>
               <a
                 className="apply-link"
@@ -46,8 +46,8 @@ class Jobs extends Component {
                 Account Manager
               </a>
             </h3>
-            <p>Compensation: 45k-55k annually</p>
-          </div> */}
+            <p>Compensation: 40k-50k annually</p>
+          </div>
           <div style={{ borderTop: "1px solid #d8dadc" }}>
             <h3>
               <a
