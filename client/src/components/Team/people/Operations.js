@@ -633,15 +633,6 @@ export const People = {
     why: "",
     image: Kiernan,
   },
-  Boitumelo: {
-    name: "Boitumelo Bogatsu",
-    title: "Customer Care Coordinator",
-    bio: "",
-    movie: "",
-    vacation: "",
-    why: "",
-    image: Male1,
-  },
   Robb: {
     name: "Robb Olson",
     title: "Training Coordinator",

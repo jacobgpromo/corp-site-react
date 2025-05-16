@@ -29,18 +29,6 @@ class Jobs extends Component {
               <a
                 className="apply-link"
                 target="blank"
-                href="https://overturepromotions.applytojob.com/apply/mt5biOILqW/NetSuite-Administrator"
-              >
-                NetSuite Administrator
-              </a>
-            </h3>
-            <p>Compensation: 100k-120k annually</p>
-          </div>
-          <div style={{ borderTop: "1px solid #d8dadc" }}>
-            <h3>
-              <a
-                className="apply-link"
-                target="blank"
                 href="https://overturepromotions.applytojob.com/apply/h0Xe1FhAnc/Account-Manager"
               >
                 Account Manager

@@ -274,10 +274,6 @@ class Operations extends Component {
             name={People.AndreaA.name}
             title={People.AndreaA.title}
           />
-          <NotPictured
-            name={People.Boitumelo.name}
-            title={People.Boitumelo.title}
-          />
           <NotPictured name={People.Byron.name} title={People.Byron.title} />
           <NotPictured
             name={People.MatthewS.name}
