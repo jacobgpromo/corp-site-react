@@ -111,7 +111,12 @@ class DevIT extends Component {
           />
         </div>
         <Element id="creative-orange">Not Pictured</Element>
-        <div className="row" style={{ marginBottom: "50px" }}></div>
+        <div className="row" style={{ marginBottom: "50px" }}>
+          <NotPictured
+            name={People.Nicohlas.name}
+            title={People.Nicohlas.title}
+          />
+        </div>
       </div>
     );
   }

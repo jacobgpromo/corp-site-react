@@ -164,4 +164,13 @@ export const People = {
     why: "",
     image: Joseph,
   },
+  Nicohlas: {
+    name: "Nicholas Fedrigon",
+    title: "MS365 Administrator",
+    bio: "",
+    movie: "",
+    vacation: "",
+    why: "",
+    image: Male1,
+  },
 };
