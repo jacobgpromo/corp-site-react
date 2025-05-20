@@ -166,7 +166,7 @@ export const People = {
   },
   Nicohlas: {
     name: "Nicholas Fedrigon",
-    title: "MS365 Administrator",
+    title: "NetSuite Administrator",
     bio: "",
     movie: "",
     vacation: "",
