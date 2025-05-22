@@ -29,18 +29,6 @@ class Jobs extends Component {
               <a
                 className="apply-link"
                 target="blank"
-                href="https://overturepromotions.applytojob.com/apply/h0Xe1FhAnc/Account-Manager"
-              >
-                Account Manager
-              </a>
-            </h3>
-            <p>Compensation: 40k-50k annually</p>
-          </div>
-          <div style={{ borderTop: "1px solid #d8dadc" }}>
-            <h3>
-              <a
-                className="apply-link"
-                target="blank"
                 href="https://overturepromotions.applytojob.com/apply/YFe4i0HOQF/Tax-And-Accounting-Clerk"
               >
                 Tax and Accounting Clerk
