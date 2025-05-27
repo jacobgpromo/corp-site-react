@@ -913,4 +913,13 @@ export const People = {
     why: "",
     image: Nathan,
   },
+  Edson: {
+    name: "Edson Barrera",
+    title: "Account Manager",
+    bio: "",
+    movie: "",
+    vacation: "",
+    why: "",
+    image: Male1,
+  },
 };
