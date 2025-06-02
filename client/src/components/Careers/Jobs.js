@@ -46,6 +46,7 @@ class Jobs extends Component {
                 Purchasing Coordinator
               </a>
             </h3>
+            <p>Compensation: $43,888 - $52,196</p>
           </div>
 
           {/* <div style={{borderTop: '1px solid #d8dadc'}}>
