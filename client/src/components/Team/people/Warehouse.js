@@ -762,4 +762,13 @@ export const People = {
     why: "",
     image: LuisG,
   },
+  Jayson: {
+    name: "Jayson Carmona",
+    title: "Warehouse Associate",
+    bio: "",
+    movie: "",
+    vacation: "",
+    why: "",
+    image: Male1,
+  },
 };
