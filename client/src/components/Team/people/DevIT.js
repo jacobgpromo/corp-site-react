@@ -174,4 +174,13 @@ export const People = {
     why: "",
     image: Nicohlas,
   },
+  Nicohlas2: {
+    name: "Nicholas Fedrigon",
+    title: "NetSuite Administrator",
+    bio: "",
+    movie: "",
+    vacation: "",
+    why: "",
+    image: Nicohlas,
+  },
 };
