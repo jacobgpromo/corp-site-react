@@ -95,6 +95,11 @@ class Sales extends Component {
             title={People.Danny.title}
           />
           <Employee
+            image={People.Edson.image}
+            name={People.Edson.name}
+            title={People.Edson.title}
+          />
+          <Employee
             image={People.Erin.image}
             name={People.Erin.name}
             title={People.Erin.title}
@@ -303,7 +308,6 @@ class Sales extends Component {
         </div>
         <Element id="creative-orange">Not Pictured</Element>
         <div className="row" style={{ marginBottom: "50px" }}>
-          <NotPictured name={People.Edson.name} title={People.Edson.title} />
           <NotPictured name={People.Tamia.name} title={People.Tamia.title} />
         </div>
         {/* All The modals */}

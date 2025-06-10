@@ -14,6 +14,7 @@ import Kinza from "../../../images/team/Operations/Kinza H.png";
 import Dale from "../../../images/team/Operations/Dale B.png";
 import Mark from "../../../images/team/Operations/Mark B.png";
 import Joseph from "../../../images/team/Operations/Joseph_Schuster.png";
+import Nicohlas from "../../../images/team/DevIt/Nick-Fedrigon_Current.png";
 
 import Female1 from "../../../images/team/Female1.jpg";
 import Male1 from "../../../images/team/Male1.jpg";
@@ -171,6 +172,6 @@ export const People = {
     movie: "",
     vacation: "",
     why: "",
-    image: Male1,
+    image: Nicohlas,
   },
 };

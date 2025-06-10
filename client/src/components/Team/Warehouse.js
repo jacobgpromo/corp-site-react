@@ -304,6 +304,11 @@ class Warehouse extends Component {
             name={People.LuisG.name}
             title={People.LuisG.title}
           />
+          <Employee
+            image={People.Jayson.image}
+            name={People.Jayson.name}
+            title={People.Jayson.title}
+          />
         </div>
         <Element id="creative-orange">Not Pictured</Element>
         <div className="row" style={{ marginBottom: "50px" }}>
@@ -311,7 +316,6 @@ class Warehouse extends Component {
             name={People.Natalie.name}
             title={People.Natalie.title}
           />
-          <NotPictured name={People.Jayson.name} title={People.Jayson.title} />
         </div>
       </div>
     );

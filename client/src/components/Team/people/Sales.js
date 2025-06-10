@@ -83,6 +83,7 @@ import AudreyM from "../../../images/team/Sales/Audrey-MacVicar.png";
 import Rebecca from "../../../images/team/Operations/Becca C.png";
 import Nathan from "../../../images/team/Sales/Nathan-Rodriguez.png";
 import Rebekah from "../../../images/team/Sales/Rebekah-Bryan.png";
+import Edson from "../../../images/team/Sales/Edson-Barrera_Current.png";
 
 //These are the default photos to be used when photo no avail.
 import Male1 from "../../../images/team/Male1.jpg";
@@ -920,6 +921,6 @@ export const People = {
     movie: "",
     vacation: "",
     why: "",
-    image: Male1,
+    image: Edson,
   },
 };
