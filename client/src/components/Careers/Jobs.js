@@ -29,18 +29,6 @@ class Jobs extends Component {
               <a
                 className="apply-link"
                 target="blank"
-                href="https://overturepromotions.applytojob.com/apply/YFe4i0HOQF/Tax-And-Accounting-Clerk"
-              >
-                Tax and Accounting Clerk
-              </a>
-            </h3>
-            <p>Compensation: $18-$20 hourly</p>
-          </div>
-          <div style={{ borderTop: "1px solid #d8dadc" }}>
-            <h3>
-              <a
-                className="apply-link"
-                target="blank"
                 href="https://overturepromotions.applytojob.com/apply/ZV6CqsuvQY/Purchasing-Coordinator"
               >
                 Purchasing Coordinator
