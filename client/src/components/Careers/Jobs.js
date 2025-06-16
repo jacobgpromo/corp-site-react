@@ -24,7 +24,7 @@ class Jobs extends Component {
     return (
       <div className="container" style={{ marginTop: "20px" }}>
         <div className="jobs-box">
-          <div style={{ borderTop: "1px solid #d8dadc" }}>
+          {/* <div style={{ borderTop: "1px solid #d8dadc" }}>
             <h3>
               <a
                 className="apply-link"
@@ -35,7 +35,7 @@ class Jobs extends Component {
               </a>
             </h3>
             <p>Compensation: $43,888 - $52,196</p>
-          </div>
+          </div> */}
 
           {/* <div style={{borderTop: '1px solid #d8dadc'}}>
                         <h3>Web Developer </h3>

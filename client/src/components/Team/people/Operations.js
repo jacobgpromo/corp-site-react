@@ -761,6 +761,15 @@ export const People = {
     why: "",
     image: Male1,
   },
+  Simeon: {
+    name: "Simeon Brown",
+    title: "Purchasing Coordinator",
+    bio: "",
+    movie: "",
+    vacation: "",
+    why: "",
+    image: Female1,
+  },
 };
 
 //Elisa Ruiz
