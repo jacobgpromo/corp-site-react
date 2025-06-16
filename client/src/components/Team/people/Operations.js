@@ -752,6 +752,16 @@ export const People = {
     why: "",
     image: Byron,
   },
+  JaredK: {
+    name: "Jared Kannianen",
+    title: "Tax and Accounting Clerk",
+    bio: "",
+    movie: "",
+    vacation: "",
+    why: "",
+    image: Male1,
+  },
 };
 
 //Elisa Ruiz
+//Jared Kannianen
