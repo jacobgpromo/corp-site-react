@@ -75,15 +75,6 @@ import Female1 from "../../../images/team/Female1.jpg";
 import Female2 from "../../../images/team/Female2.jpg";
 
 export const People = {
-  Don: {
-    name: "Don Boyk",
-    title: "Maintenance Manager",
-    bio: "",
-    movie: "",
-    vacation: "",
-    why: "",
-    image: Don,
-  },
   Kristin: {
     name: "Kristin Becker",
     title: "Purchasing Lead",
