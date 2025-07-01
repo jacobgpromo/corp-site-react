@@ -101,15 +101,6 @@ export const People = {
     why: "",
     image: Amy,
   },
-  Angela: {
-    name: "Angela Shimenetto",
-    title: "Sr. Account Executive",
-    bio: "",
-    movie: "",
-    vacation: "",
-    why: "",
-    image: Angela,
-  },
   Beth: {
     name: "Beth Becker",
     title: "Sr. Account Executive",
