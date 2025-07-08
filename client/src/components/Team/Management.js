@@ -34,12 +34,6 @@ class Management extends Component {
         </Element>
         <div className="row">
           <Employee
-            image={People.JoG.image}
-            name={People.JoG.name}
-            title={People.JoG.title}
-            clicked={() => this.openModal(0)}
-          />
-          <Employee
             image={People.JoeH.image}
             name={People.JoeH.name}
             title={People.JoeH.title}
@@ -108,16 +102,10 @@ class Management extends Component {
             title={People.Justin.title}
             clicked={() => this.openModal(28)}
           />
-          <Employee
-            image={People.JoG.image}
-            name={People.JoG.name}
-            title={People.JoG.title}
-            clicked={() => this.openModal(0)}
-          />
         </div>
 
         {/* All The modals */}
-        <Modal
+        {/* <Modal
           isOpen={this.state.showModal[0]}
           onRequestClose={this.closeModal}
           className="employee-modal"
@@ -132,7 +120,7 @@ class Management extends Component {
             why={People.JoG.why}
             close={() => this.closeModal()}
           />
-        </Modal>
+        </Modal> */}
         <Modal
           isOpen={this.state.showModal[2]}
           onRequestClose={this.closeModal}
